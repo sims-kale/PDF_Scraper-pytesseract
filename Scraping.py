@@ -1,12 +1,10 @@
 import os
-
 from PIL import ImageEnhance
 from pdf2image import convert_from_path
 import pytesseract
 import shutil
 import logging
 import configparser
-
 
 config = configparser.ConfigParser()
 config.read('path.config')
@@ -39,19 +37,14 @@ class DataExtraction():
         for filename in os.listdir(folder_path):
             if filename.endswith('.pdf'):
                 # convert pdf to an img and extract data from img
-                images = convert_from_path(os.path.join(folder_path, filename), first_page=1, last_page=1, poppler_path= r'C:\Program Files\poppler-0.68.0\bin')
-
+                images = convert_from_path(os.path.join(folder_path, filename), first_page=1, last_page=1,
+                                           poppler_path=r'C:\Program Files\poppler-0.68.0\bin')
                 company_region = (180, 85, 670, 220)
                 cropped_image = images[0].crop(company_region)
-                # contrast = ImageEnhance.Contrast(cropped_image)
-                # image = contrast.enhance(1.5)
-
                 company_names = pytesseract.image_to_string(
                     cropped_image, lang="eng").strip('\n\t \*').split('\n')
                 # remove empty strings
                 company_names = list(filter(None, company_names))
-                print(company_names)
-
                 with open(company_file, 'r') as rf:
                     matching_company = ''
                     for company in rf:
@@ -59,76 +52,68 @@ class DataExtraction():
                         if any(name.lower() in company.lower() for name in company_names):
                             if len(company_names) >= 4:
                                 for name in company_names:
-                                    if ((company_names[0]+' '+company_names[1]).lower() == company.lower()):
+                                    if (company_names[0] + ' ' + company_names[1]).lower() == company.lower():
                                         matching_company = company
                                         break
-                                    elif ((company_names[0]+' '+company_names[3]).lower().split(',')[0] == company.lower()):
+                                    elif ((company_names[0] + ' ' + company_names[3]).lower().split(',')[
+                                              0] == company.lower()):
                                         matching_company = company
                                         break
                             elif len(company_names) == 3:
                                 for name in company_names:
-                                    if ((company_names[0]+' '+company_names[2]).lower().split(',')[0] == company.lower()):
+                                    if (company_names[0] + ' ' + company_names[2]).lower().split(',')[0] == company.lower():
                                         matching_company = company
                                         print(matching_company)
                                         logging.info(matching_company)
                                         break
 
-                client_region = (180, 220, 600, 310)
+                client_region = (180, 220, 670, 310)
                 cropped_image = images[0].crop(client_region)
-                Client = pytesseract.image_to_string(
-                    cropped_image, lang="eng").strip('\n\t \*').split('\n')[0]
+                Client = pytesseract.image_to_string(cropped_image, lang="eng").strip('\n\t \*').split('\n')[0]
                 print(Client)
-                logging.info("Pay to the order of: " +Client)
-
+                logging.info("Pay to the order of: " + Client)
                 if not scrapable(filename, 'Client Name', Client):
                     continue
-                date_region = (1280, 149, 1700, 225)
-                cropped_image2 = images[0].crop(date_region)
-                date = pytesseract.image_to_string(
-                    cropped_image2, lang="eng").strip('\n\t')[0:4]
-                print(date)
+                date_region = (1282, 145, 1700, 225)
+                cropped_image = images[0].crop(date_region)
+                #image filter
+                contrast = ImageEnhance.Contrast(cropped_image)
+                cropped_image = contrast.enhance(1.5)
+                grayscale_image = cropped_image.convert('L')
+                # thresholding
+                threshold_value = 128
+                binarized_image = grayscale_image.point(lambda x: 0 if x < threshold_value else 255)
+                date = pytesseract.image_to_string(binarized_image, lang="eng").strip()
+                date = date.replace(')', '').replace('\n', '').replace('\t', '')
                 if not scrapable(filename, "data", date):
                     continue
                 components = date.split('/')
-                print(components)
                 month = int(components[0])
                 day = int(components[1])
-                year = components[2] if len(
-                    components) > 2 and components[2] != '' else None
-                # Use str.format() to print the date in the desired format
-                if year is not None:
-                    year = int(year)
-                    formated_date = "{:02d}{:02d}{:02d}".format(
-                        month, day, year % 100)
-                else:
+                if month and day is not None:
                     formated_date = "{:02d}{:02d}".format(month, day)
-
                 print(formated_date)
-                logging.info("Formated Date: "+ formated_date)
-
-                year_region = (1250, 140, 1700, 200)
-                cropped_image2 = images[0].crop(year_region)
-                year = pytesseract.image_to_string(
-                    cropped_image2, lang="eng").strip('\n\t')[-4:]
-                if not scrapable(filename, "year", year):
-                    continue
-                print(year)
-                logging.info("Year: "+ year)
+                year = components[2]
+                print (year)
+                logging.info("Formated Date: " + formated_date)
 
                 cash_region = (1300, 1300, 1700, 1400)
                 cropped_image3 = images[0].crop(cash_region)
+                contrast = ImageEnhance.Contrast(cropped_image3)
+                cropped_image = contrast.enhance(1.5)
+                grayscale_image = cropped_image.convert('L')
+                # thresholding
+                threshold_value = 128
+                binarized_image = grayscale_image.point(lambda x: 0 if x < threshold_value else 255)
                 amount = pytesseract.image_to_string(
-                    cropped_image3, lang="eng").strip('\n\t')
+                    binarized_image, lang="eng").strip('\n\t')
                 if not scrapable(filename, "amount", amount):
                     continue
                 print(amount)
-                logging.info("Amount: "+ amount)
-
+                logging.info("Amount: " + amount)
                 text1 = (year + " " + matching_company)
                 logging.info("New Folder Name: " + text1)
-
-                new_filename1 = f"{formated_date} {Client} ${amount}.pdf".encode(
-                    "ascii", "ignore").decode().replace("*", "").replace("/", "-")
+                new_filename1 = f"{formated_date} {Client} ${amount}.pdf".encode("ascii", "ignore").decode().replace("*", "").replace("/", "-")
                 logging.info("file name replace with: " + new_filename1)
 
                 try:
