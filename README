@@ -1,0 +1,17 @@
+# Instructions for using SCraping.exe
+
+## Changing the path
+
+1. Open the `path.config` file in a text editor.
+2. Locate the `input` and `output` fields under the `[paths]` section.
+3. As per that path Please create that input folder in you machine 
+4. Save your all scrapable data in that LLC folder
+
+## Running the executable
+
+1. Double-click on the `Scraping.exe` file to run it. You will find it in a dist folder
+2. The program will read the `path.config` file to get the input and output paths.
+3. If you have modified the paths in the `path.config` file, the program may not use the updated paths.
+4. If you encounter any errors or issues while running the program, Check Logs which is located in same same folder and  please contact us for assistance.
+
+
