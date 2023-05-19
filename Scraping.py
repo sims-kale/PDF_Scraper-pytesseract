@@ -43,13 +43,13 @@ class DataExtraction():
                                            poppler_path=r'C:\Program Files\poppler-0.68.0\bin')
                 company_region = (120, 80, 700, 220)
                 cropped_image = images[0].crop(company_region)
-                cropped_image.show()
+                # cropped_image.show()
                 company_names = pytesseract.image_to_string(
                     cropped_image, lang="eng").strip('\n\t \*').split('\n')
-                print(company_names)
+                # print(company_names)
                 # remove empty strings
                 company_names = list(filter(None, company_names))
-                print(company_names)
+                # print(company_names)
 
                 with open(company_file, 'r') as rf:
                     matching_company = ''
@@ -74,29 +74,38 @@ class DataExtraction():
                                 for name in company_names:
                                     if ((company_names[0]+' '+company_names[2]).lower().split(',')[0] == company.lower()):
                                         matching_company = company
-                                        print(matching_company)
+                                        # print(matching_company)
                                         logging.info(matching_company)
                                         break
 
 
-                client_region = (200, 220, 670, 310)
-                cropped_image = images[0].crop(client_region)
-                # cropped_image.show()
-                Client = pytesseract.image_to_string(cropped_image, lang="eng").strip('\n\t \*').split('\n')[0]
-                print(Client)
+                client_region = (195, 213, 700, 317)
+                client_image = images[0].crop(client_region)
+                contrast = ImageEnhance.Contrast(client_image)
+                client_image = contrast.enhance(1.5)
+                client_image = client_image.convert('L')
+                # thresholding
+                threshold_value = 120
+                client_image = client_image.point(lambda x: 0 if x < threshold_value else 255)
+                # client_image.show()
+                Client = pytesseract.image_to_string(client_image, lang="eng").strip('\n\t \*').split('\n')[0]
+                # print(Client)
                 logging.info("Pay to the order of: " + Client)
                 if not scrapable(filename, 'Client Name', Client):
                     continue
 
-                date_region = (1282, 145, 1700, 225)
-                cropped_image = images[0].crop(date_region)
+                date_region = (1150, 650, 1430, 860)
+                date_image = images[0].crop(date_region)
+                sharp = ImageEnhance.Sharpness(date_image)
+                date_image = sharp.enhance(1.6)
+                contrast= ImageEnhance.Contrast(date_image)
+                date_image= contrast.enhance(1.3)
+                threshold_value = 90
+                date_image = date_image.point(lambda x: 0 if x < threshold_value else 255)
 
-                threshold_value = 110
-                cropped_image = cropped_image.point(lambda x: 0 if x < threshold_value else 255)
-
-                cropped_image = cropped_image.filter(ImageFilter.EDGE_ENHANCE)
-                cropped_image = cropped_image.convert('L')
-                cropped_image = cropped_image.convert('1', dither=Image.NONE)
+                date_image = date_image.filter(ImageFilter.EDGE_ENHANCE)
+                # cropped_image = cropped_image.convert('L')
+                date_image = date_image.convert('1', dither=Image.NONE)
 
                 # cropped_image = cropped_image.filter(ImageFilter.SHARPEN)
                 # cropped_image = cropped_image.filter(ImageFilter.SHARPEN)
@@ -112,9 +121,9 @@ class DataExtraction():
                 # threshold_value = 80
                 # binarized_image = cropped_image.point(lambda x: 0 if x < threshold_value else 255)
 
-                cropped_image.show()
-                date = pytesseract.image_to_string(cropped_image, lang="eng").strip()
-                print('DATE: ',date)
+                # date_image.show()
+                date = pytesseract.image_to_string(date_image, lang="eng").split('\n')[0]
+                # print('DATE: ',date)
                 date = date.replace(')', '').replace('\n', '').replace('\t', '')
                 if not scrapable(filename, "data", date):
                     continue
@@ -129,9 +138,9 @@ class DataExtraction():
 
                 if month and day is not None:
                     formated_date = "{:02d}{:02d}".format(month, day)
-                print(formated_date)
+                # print(formated_date)
                 
-                print (year)
+                # print (year)
                 logging.info("Formated Date: " + formated_date)
 
                 cash_region = (1300, 1300, 1700, 1400)
@@ -140,13 +149,13 @@ class DataExtraction():
                 cropped_image = contrast.enhance(1.5)
                 grayscale_image = cropped_image.convert('L')
                 # thresholding
-                threshold_value = 128
+                threshold_value = 120
                 binarized_image = grayscale_image.point(lambda x: 0 if x < threshold_value else 255)
                 amount = pytesseract.image_to_string(
                     binarized_image, lang="eng").strip('\n\t')
                 if not scrapable(filename, "amount", amount):
                     continue
-                print(amount)
+                # print(amount)
                 logging.info("Amount: " + amount)
                 text1 = (str(year) + " " +matching_company)
                 logging.info (f'New Folder Name: {text1}')

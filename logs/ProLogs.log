@@ -1,839 +1,382 @@
-2023-05-11 11:05:57,045 INFO:=================================New Extraction started===============================
-2023-05-11 11:05:58,110 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:05:58,252 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:06:00,202 INFO:Formated Date: 0504
-2023-05-11 11:06:00,328 INFO:Amount: 887.00
-2023-05-11 11:06:00,328 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:06:00,328 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 11:06:00,328 INFO:Folder created for 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:06:00,329 INFO:PDF file moved to folder 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:06:01,389 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 11:06:01,526 INFO:Pay to the order of: Cintas
-2023-05-11 11:09:13,309 INFO:=================================New Extraction started===============================
-2023-05-11 11:09:14,434 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:09:14,585 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:09:55,344 INFO:=================================New Extraction started===============================
-2023-05-11 11:09:56,377 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:09:56,531 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:09:58,462 INFO:Formated Date: 0504
-2023-05-11 11:09:58,589 INFO:Amount: 887.00
-2023-05-11 11:09:58,589 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:09:58,589 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 11:09:59,623 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 11:09:59,757 INFO:Pay to the order of: Cintas
-2023-05-11 11:16:59,735 INFO:=================================New Extraction started===============================
-2023-05-11 11:17:01,443 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:17:01,655 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:19:00,876 INFO:=================================New Extraction started===============================
-2023-05-11 11:19:02,578 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:19:02,794 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:19:05,261 INFO:Formated Date: 0504
-2023-05-11 11:19:05,483 INFO:Amount: 887.00
-2023-05-11 11:19:05,483 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:19:05,483 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 11:19:07,149 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 11:19:07,362 INFO:Pay to the order of: Cintas
-2023-05-11 11:19:31,992 INFO:=================================New Extraction started===============================
-2023-05-11 11:19:33,670 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:19:33,884 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:20:33,390 INFO:=================================New Extraction started===============================
-2023-05-11 11:20:35,049 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:20:35,272 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:20:48,611 INFO:=================================New Extraction started===============================
-2023-05-11 11:20:50,271 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:20:50,486 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:20:52,763 INFO:Formated Date: 0504
-2023-05-11 11:20:52,967 INFO:Amount: 887.00
-2023-05-11 11:20:52,967 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:20:52,968 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 11:20:54,598 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 11:20:54,796 INFO:Pay to the order of: Cintas
-2023-05-11 11:22:41,229 INFO:=================================New Extraction started===============================
-2023-05-11 11:22:42,906 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:22:43,117 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:22:45,461 INFO:Formated Date: 0504
-2023-05-11 11:22:45,664 INFO:Amount: 887.00
-2023-05-11 11:22:45,664 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:22:45,664 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 11:22:47,329 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 11:22:47,532 INFO:Pay to the order of: Cintas
-2023-05-11 11:23:08,592 INFO:=================================New Extraction started===============================
-2023-05-11 11:23:10,260 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:23:10,464 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:23:12,799 INFO:Formated Date: 0504
-2023-05-11 11:23:12,997 INFO:Amount: 887.00
-2023-05-11 11:23:12,997 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:23:12,997 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 11:23:14,627 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 11:23:14,823 INFO:Pay to the order of: Cintas
-2023-05-11 11:24:45,945 INFO:=================================New Extraction started===============================
-2023-05-11 11:24:47,630 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:24:47,842 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:24:50,228 INFO:Formated Date: 0504
-2023-05-11 11:24:50,436 INFO:Amount: 887.00
-2023-05-11 11:24:50,436 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:24:50,436 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 11:24:52,350 INFO:Pay to the order of: Turner Leasing Co., Inc.
-2023-05-11 11:24:53,842 INFO:Formated Date: 0541
-2023-05-11 11:24:54,048 INFO:Amount: 169.60
-2023-05-11 11:24:54,048 INFO:New Folder Name: 2023 COUNTRY INN & SUITES BECKLEY
-2023-05-11 11:24:54,048 INFO:file name replace with: 0541 Turner Leasing Co., Inc. $169.60.pdf
-2023-05-11 11:24:55,961 INFO:Pay to the order of: Royal Cup
-2023-05-11 11:24:57,457 INFO:Formated Date: 0505
-2023-05-11 11:24:57,664 INFO:Amount: 1,064.84
-2023-05-11 11:24:57,665 INFO:New Folder Name: 2023 
-2023-05-11 11:24:57,665 INFO:file name replace with: 0505 Royal Cup $1,064.84.pdf
-2023-05-11 11:24:59,597 INFO:Pay to the order of: US Food Service
-2023-05-11 11:30:20,480 INFO:=================================New Extraction started===============================
-2023-05-11 11:30:22,169 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:30:22,379 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:30:24,719 INFO:Formated Date: 0504
-2023-05-11 11:30:24,927 INFO:Amount: 887.00
-2023-05-11 11:30:24,927 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:30:24,928 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 11:30:26,816 INFO:Pay to the order of: Turner Leasing Co., Inc.
-2023-05-11 11:30:28,309 INFO:Formated Date: 0541
-2023-05-11 11:30:28,513 INFO:Amount: 169.60
-2023-05-11 11:30:28,514 INFO:New Folder Name: 2023 COUNTRY INN & SUITES BECKLEY
-2023-05-11 11:30:28,514 INFO:file name replace with: 0541 Turner Leasing Co., Inc. $169.60.pdf
-2023-05-11 11:30:30,170 INFO:HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:30:30,371 INFO:Pay to the order of: Royal Cup
-2023-05-11 11:30:31,868 INFO:Formated Date: 0505
-2023-05-11 11:30:32,067 INFO:Amount: 1,064.84
-2023-05-11 11:30:32,068 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:30:32,068 INFO:file name replace with: 0505 Royal Cup $1,064.84.pdf
-2023-05-11 11:30:33,958 INFO:Pay to the order of: US Food Service
-2023-05-11 11:34:23,501 INFO:=================================New Extraction started===============================
-2023-05-11 11:34:25,191 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:34:25,406 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:34:27,756 INFO:Formated Date: 0504
-2023-05-11 11:34:27,957 INFO:Amount: 887.00
-2023-05-11 11:34:27,957 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:34:27,957 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 11:34:29,831 INFO:Pay to the order of: Turner Leasing Co., Inc.
-2023-05-11 11:34:31,341 INFO:Formated Date: 0504
-2023-05-11 11:34:31,544 INFO:Amount: 169.60
-2023-05-11 11:34:31,544 INFO:New Folder Name: 2023 COUNTRY INN & SUITES BECKLEY
-2023-05-11 11:34:31,544 INFO:file name replace with: 0504 Turner Leasing Co., Inc. $169.60.pdf
-2023-05-11 11:34:33,204 INFO:HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:34:33,403 INFO:Pay to the order of: Royal Cup
-2023-05-11 11:34:34,924 INFO:Formated Date: 0505
-2023-05-11 11:34:35,125 INFO:Amount: 1,064.84
-2023-05-11 11:34:35,125 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:34:35,126 INFO:file name replace with: 0505 Royal Cup $1,064.84.pdf
-2023-05-11 11:34:37,003 INFO:Pay to the order of: US Food Service
-2023-05-11 11:35:42,608 INFO:=================================New Extraction started===============================
-2023-05-11 11:35:44,290 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:35:44,500 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:35:46,937 INFO:Formated Date: 0504
-2023-05-11 11:35:47,149 INFO:Amount: 887.00
-2023-05-11 11:35:47,149 INFO:New Folder Name: 2023aa HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:35:47,149 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 11:35:49,039 INFO:Pay to the order of: Turner Leasing Co., Inc.
-2023-05-11 11:35:50,547 INFO:Formated Date: 0504
-2023-05-11 11:35:50,752 INFO:Amount: 169.60
-2023-05-11 11:35:50,752 INFO:New Folder Name: 2023 COUNTRY INN & SUITES BECKLEY
-2023-05-11 11:35:50,752 INFO:file name replace with: 0504 Turner Leasing Co., Inc. $169.60.pdf
-2023-05-11 11:35:52,419 INFO:HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:35:52,622 INFO:Pay to the order of: Royal Cup
-2023-05-11 11:35:54,117 INFO:Formated Date: 0505
-2023-05-11 11:35:54,322 INFO:Amount: 1,064.84
-2023-05-11 11:35:54,323 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:35:54,323 INFO:file name replace with: 0505 Royal Cup $1,064.84.pdf
-2023-05-11 11:35:56,193 INFO:Pay to the order of: US Food Service
-2023-05-11 11:37:00,967 INFO:=================================New Extraction started===============================
-2023-05-11 11:37:02,653 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:37:02,865 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:37:05,252 INFO:Formated Date: 0504
-2023-05-11 11:37:05,460 INFO:Amount: 887.00
-2023-05-11 11:37:05,461 INFO:New Folder Name: 2023aa HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:37:05,461 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 11:37:05,461 INFO:Folder created for 2023aa HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:37:05,462 INFO:PDF file moved to folder 2023aa HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:37:07,399 INFO:Pay to the order of: Turner Leasing Co., Inc.
-2023-05-11 11:37:08,922 INFO:Formated Date: 0504
-2023-05-11 11:37:09,123 INFO:Amount: 169.60
-2023-05-11 11:37:09,123 INFO:New Folder Name: 2023 COUNTRY INN & SUITES BECKLEY
-2023-05-11 11:37:09,123 INFO:file name replace with: 0504 Turner Leasing Co., Inc. $169.60.pdf
-2023-05-11 11:37:09,123 INFO:Folder created for 2023 COUNTRY INN & SUITES BECKLEY
-2023-05-11 11:37:09,124 INFO:PDF file moved to folder 2023 COUNTRY INN & SUITES BECKLEY
-2023-05-11 11:37:10,842 INFO:HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:37:11,080 INFO:Pay to the order of: Royal Cup
-2023-05-11 11:37:12,568 INFO:Formated Date: 0505
-2023-05-11 11:37:12,758 INFO:Amount: 1,064.84
-2023-05-11 11:37:12,758 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:37:12,758 INFO:file name replace with: 0505 Royal Cup $1,064.84.pdf
-2023-05-11 11:37:12,758 INFO:Folder created for 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:37:12,759 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:37:14,031 INFO:Pay to the order of: US Food Service
-2023-05-11 11:39:38,310 INFO:=================================New Extraction started===============================
-2023-05-11 11:39:40,047 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 11:39:40,242 INFO:Pay to the order of: Cintas
-2023-05-11 11:43:06,144 INFO:=================================New Extraction started===============================
-2023-05-11 11:43:08,069 INFO:Pay to the order of: RR Donnelley
-2023-05-11 11:43:10,435 INFO:Formated Date: 0505
-2023-05-11 11:43:10,642 INFO:Amount: 314.64
-2023-05-11 11:43:10,642 INFO:New Folder Name: 2023 
-2023-05-11 11:43:10,642 INFO:file name replace with: 0505 RR Donnelley $314.64.pdf
-2023-05-11 11:43:10,642 INFO:Folder created for 2023 
-2023-05-11 11:43:10,643 INFO:Error occurred while processing 05052023_6909.pdf:[Errno 2] No such file or directory: 'C:/LLC2\\2023 \\05052023_6909.pdf' 
-2023-05-11 11:43:10,643 INFO:Data Extacted Scuessfully
-2023-05-11 11:44:37,405 INFO:=================================New Extraction started===============================
-2023-05-11 11:44:39,312 INFO:Pay to the order of: RR Donnelley
-2023-05-11 11:44:41,755 INFO:Formated Date: 0505
-2023-05-11 11:44:41,968 INFO:Amount: 314.64
-2023-05-11 11:44:41,969 INFO:New Folder Name: 2023 SUPER 8 PRESTONSBURG
-2023-05-11 11:44:41,969 INFO:file name replace with: 0505 RR Donnelley $314.64.pdf
-2023-05-11 11:44:41,969 INFO:Folder created for 2023 SUPER 8 PRESTONSBURG
-2023-05-11 11:44:41,973 INFO:Error occurred while processing 05052023_6909.pdf:[WinError 32] The process cannot access the file because it is being used by another process: 'C:/LLC\\05052023_6909.pdf' 
-2023-05-11 11:44:41,973 INFO:Data Extacted Scuessfully
-2023-05-11 11:45:02,009 INFO:=================================New Extraction started===============================
-2023-05-11 11:45:03,889 INFO:Pay to the order of: RR Donnelley
-2023-05-11 11:45:06,245 INFO:Formated Date: 0505
-2023-05-11 11:45:06,452 INFO:Amount: 314.64
-2023-05-11 11:45:06,452 INFO:New Folder Name: 2023 SUPER 8 PRESTONSBURG
-2023-05-11 11:45:06,452 INFO:file name replace with: 0505 RR Donnelley $314.64.pdf
-2023-05-11 11:45:06,456 INFO:PDF file moved to folder 2023 SUPER 8 PRESTONSBURG
-2023-05-11 11:45:06,458 INFO:Data Extacted Scuessfully
-2023-05-11 11:47:08,713 INFO:=================================New Extraction started===============================
-2023-05-11 11:47:11,159 INFO:Pay to the order of: ALLBRIDGE
-2023-05-11 11:47:13,546 INFO:Formated Date: 0309
-2023-05-11 11:47:13,764 INFO:Amount: 129.00
-2023-05-11 11:47:13,765 INFO:New Folder Name: 2023 BEST WESTERN HUNTINGTON MALL INN
-2023-05-11 11:47:13,765 INFO:file name replace with: 0309 ALLBRIDGE $129.00.pdf
-2023-05-11 11:47:13,766 INFO:Folder created for 2023 BEST WESTERN HUNTINGTON MALL INN
-2023-05-11 11:47:13,766 INFO:PDF file moved to folder 2023 BEST WESTERN HUNTINGTON MALL INN
-2023-05-11 11:47:15,927 INFO:COMFORT INN BLUEFIELD
-2023-05-11 11:47:16,133 INFO:Pay to the order of: Commtrak
-2023-05-11 11:47:17,649 INFO:Formated Date: 0315
-2023-05-11 11:47:17,855 INFO:Amount: 75.30
-2023-05-11 11:47:17,855 INFO:New Folder Name: 2023 COMFORT INN BLUEFIELD
-2023-05-11 11:47:17,856 INFO:file name replace with: 0315 Commtrak $75.30.pdf
-2023-05-11 11:47:17,857 INFO:Folder created for 2023 COMFORT INN BLUEFIELD
-2023-05-11 11:47:17,858 INFO:PDF file moved to folder 2023 COMFORT INN BLUEFIELD
-2023-05-11 11:47:18,518 INFO:WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 11:47:18,735 INFO:Pay to the order of: Ecolab
-2023-05-11 11:47:20,281 INFO:Formated Date: 0316
-2023-05-11 11:47:20,503 INFO:Amount: 222.09
-2023-05-11 11:47:20,503 INFO:New Folder Name: 2023 WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 11:47:20,503 INFO:file name replace with: 0316 Ecolab $222.09.pdf
-2023-05-11 11:47:20,504 INFO:Folder created for 2023 WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 11:47:20,504 INFO:PDF file moved to folder 2023 WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 11:47:22,676 INFO:DAYS INN PRINCETON
-2023-05-11 11:47:22,907 INFO:Pay to the order of: J & M Heating and Air Conditioning
-2023-05-11 11:47:24,412 INFO:Formated Date: 0317
-2023-05-11 11:47:24,627 INFO:Amount: 169.60
-2023-05-11 11:47:24,627 INFO:New Folder Name: 2022 DAYS INN PRINCETON
-2023-05-11 11:47:24,627 INFO:file name replace with: 0317 J & M Heating and Air Conditioning $169.60.pdf
-2023-05-11 11:47:24,628 INFO:Folder created for 2022 DAYS INN PRINCETON
-2023-05-11 11:47:24,629 INFO:PDF file moved to folder 2022 DAYS INN PRINCETON
-2023-05-11 11:47:26,857 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 11:47:27,072 INFO:Pay to the order of: Royal Cup
-2023-05-11 11:47:28,582 INFO:Formated Date: 0478
-2023-05-11 11:47:28,793 INFO:Amount: 1,599.51
-2023-05-11 11:47:28,793 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 11:47:28,793 INFO:file name replace with: 0478 Royal Cup $1,599.51.pdf
-2023-05-11 11:47:28,794 INFO:Folder created for 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 11:47:28,795 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 11:47:31,080 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 11:47:31,288 INFO:Pay to the order of: Royal Cup
-2023-05-11 11:47:32,788 INFO:Formated Date: 0478
-2023-05-11 11:47:32,989 INFO:Amount: 1,599.51
-2023-05-11 11:47:32,989 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 11:47:32,989 INFO:file name replace with: 0478 Royal Cup $1,599.51.pdf
-2023-05-11 11:47:32,990 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 11:47:35,143 INFO:WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 11:47:35,349 INFO:Pay to the order of: Cintas
-2023-05-11 11:47:36,849 INFO:Formated Date: 0324
-2023-05-11 11:47:37,058 INFO:Amount: 95.40
-2023-05-11 11:47:37,059 INFO:New Folder Name: 2023 WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 11:47:37,059 INFO:file name replace with: 0324 Cintas $95.40.pdf
-2023-05-11 11:47:37,060 INFO:PDF file moved to folder 2023 WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 11:47:39,424 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 11:47:40,926 INFO:Formated Date: 0328
-2023-05-11 11:47:41,128 INFO:Amount: 40.85
-2023-05-11 11:47:41,128 INFO:New Folder Name: 2023 
-2023-05-11 11:47:41,129 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 11:47:41,129 INFO:Error occurred while processing 0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf:[Errno 2] No such file or directory: 'C:/LLC2\\2023 \\0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf' 
-2023-05-11 11:47:43,294 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 11:47:43,506 INFO:Pay to the order of: HD Supply
-2023-05-11 11:47:45,012 INFO:Formated Date: 0418
-2023-05-11 11:47:45,215 INFO:Amount: 410.09
-2023-05-11 11:47:45,216 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 11:47:45,216 INFO:file name replace with: 0418 HD Supply $410.09.pdf
-2023-05-11 11:47:45,217 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 11:47:47,393 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 11:47:47,613 INFO:Pay to the order of: Corporate Identity, Inc.
-2023-05-11 11:49:38,535 INFO:=================================New Extraction started===============================
-2023-05-11 11:49:40,857 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 11:49:43,232 INFO:Formated Date: 0328
-2023-05-11 11:49:43,432 INFO:Amount: 40.85
-2023-05-11 11:49:43,433 INFO:New Folder Name: 2023 
-2023-05-11 11:49:43,433 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 11:49:43,434 INFO:Error occurred while processing 0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf:[Errno 2] No such file or directory: 'C:/LLC2\\2023 \\0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf' 
-2023-05-11 11:49:45,820 INFO:HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 11:49:45,821 INFO:HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 11:49:46,037 INFO:Pay to the order of: AT&T - 72037
-2023-05-11 11:51:15,784 INFO:=================================New Extraction started===============================
-2023-05-11 11:51:18,108 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 11:51:20,437 INFO:Formated Date: 0328
-2023-05-11 11:51:20,637 INFO:Amount: 40.85
-2023-05-11 11:51:20,637 INFO:New Folder Name: 2023 
-2023-05-11 11:51:20,638 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 11:51:20,639 INFO:Error occurred while processing 0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf:[Errno 2] No such file or directory: 'C:/LLC2\\2023 \\0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf' 
-2023-05-11 11:51:22,349 INFO:QUALITY INN DUNDEE
-2023-05-11 11:51:22,551 INFO:Pay to the order of: STI Networks
-2023-05-11 11:51:24,042 INFO:Formated Date: 0504
-2023-05-11 11:51:24,244 INFO:Amount: 95.00
-2023-05-11 11:51:24,244 INFO:New Folder Name: 2023 QUALITY INN DUNDEE
-2023-05-11 11:51:24,244 INFO:file name replace with: 0504 STI Networks $95.00.pdf
-2023-05-11 11:51:24,245 INFO:Folder created for 2023 QUALITY INN DUNDEE
-2023-05-11 11:51:24,245 INFO:PDF file moved to folder 2023 QUALITY INN DUNDEE
-2023-05-11 11:51:25,952 INFO:COUNTRY INN & SUITES PRINCETON
-2023-05-11 11:51:26,162 INFO:Pay to the order of: MOUNTAINEER GAS
-2023-05-11 11:51:27,653 INFO:Formated Date: 0504
-2023-05-11 11:51:27,864 INFO:Amount: 1,104.27
-2023-05-11 11:51:27,864 INFO:New Folder Name: 2023 COUNTRY INN & SUITES PRINCETON
-2023-05-11 11:51:27,864 INFO:file name replace with: 0504 MOUNTAINEER GAS $1,104.27.pdf
-2023-05-11 11:51:27,865 INFO:Folder created for 2023 COUNTRY INN & SUITES PRINCETON
-2023-05-11 11:51:27,865 INFO:PDF file moved to folder 2023 COUNTRY INN & SUITES PRINCETON
-2023-05-11 11:51:27,867 INFO:Data Extacted Scuessfully
-2023-05-11 11:52:06,425 INFO:=================================New Extraction started===============================
-2023-05-11 11:52:09,030 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 11:52:11,452 INFO:Formated Date: 0328
-2023-05-11 11:52:11,654 INFO:Amount: 40.85
-2023-05-11 11:52:11,654 INFO:New Folder Name: 2023 
-2023-05-11 11:52:11,654 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 11:52:11,655 INFO:Error occurred while processing 0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf:[Errno 2] No such file or directory: 'C:/LLC2\\2023 \\0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf' 
-2023-05-11 11:52:11,655 INFO:Data Extacted Scuessfully
-2023-05-11 11:53:13,616 INFO:=================================New Extraction started===============================
-2023-05-11 11:53:18,183 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 11:53:19,747 INFO:Formated Date: 0328
-2023-05-11 11:53:19,951 INFO:Amount: 40.85
-2023-05-11 11:53:19,951 INFO:New Folder Name: 2023 
-2023-05-11 11:53:19,952 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 11:53:19,953 INFO:Error occurred while processing 0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf:[Errno 2] No such file or directory: 'C:/LLC2\\2023 \\0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf' 
-2023-05-11 11:53:19,953 INFO:Data Extacted Scuessfully
-2023-05-11 11:53:55,938 INFO:=================================New Extraction started===============================
-2023-05-11 11:54:00,398 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 11:54:01,956 INFO:Formated Date: 0328
-2023-05-11 11:54:02,159 INFO:Amount: 40.85
-2023-05-11 11:54:02,159 INFO:New Folder Name: 2023 
-2023-05-11 11:54:02,159 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 11:54:02,160 INFO:Error occurred while processing 0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf:[Errno 2] No such file or directory: 'C:/LLC2\\2023 \\0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf' 
-2023-05-11 11:54:05,230 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 11:54:05,466 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 11:54:34,961 INFO:=================================New Extraction started===============================
-2023-05-11 11:54:39,241 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 11:54:40,797 INFO:Formated Date: 0328
-2023-05-11 11:54:40,992 INFO:Amount: 40.85
-2023-05-11 11:54:40,992 INFO:New Folder Name: 2023 
-2023-05-11 11:54:40,992 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 11:54:40,993 INFO:Error occurred while processing 0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf:[Errno 2] No such file or directory: 'C:/LLC2\\2023 \\0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf' 
-2023-05-11 11:54:44,021 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 11:54:44,237 INFO:Pay to the order of: Cintas
-2023-05-11 11:55:22,780 INFO:=================================New Extraction started===============================
-2023-05-11 11:55:27,128 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 11:55:28,675 INFO:Formated Date: 0328
-2023-05-11 11:55:28,886 INFO:Amount: 40.85
-2023-05-11 11:55:28,886 INFO:New Folder Name: 2023 
-2023-05-11 11:55:28,886 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 11:55:28,887 INFO:Error occurred while processing 0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf:[Errno 2] No such file or directory: 'C:/LLC2\\2023 \\0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf' 
-2023-05-11 11:55:32,154 INFO:Pay to the order of: Turner Leasing Co., Inc.
-2023-05-11 11:55:33,714 INFO:Formated Date: 0504
-2023-05-11 11:55:33,914 INFO:Amount: 169.60
-2023-05-11 11:55:33,914 INFO:New Folder Name: 2023 COUNTRY INN & SUITES BECKLEY
-2023-05-11 11:55:33,914 INFO:file name replace with: 0504 Turner Leasing Co., Inc. $169.60.pdf
-2023-05-11 11:55:33,916 INFO:PDF file moved to folder 2023 COUNTRY INN & SUITES BECKLEY
-2023-05-11 11:55:36,955 INFO:HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:55:37,178 INFO:Pay to the order of: Royal Cup
-2023-05-11 11:55:38,746 INFO:Formated Date: 0505
-2023-05-11 11:55:38,948 INFO:Amount: 1,064.84
-2023-05-11 11:55:38,948 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:55:38,948 INFO:file name replace with: 0505 Royal Cup $1,064.84.pdf
-2023-05-11 11:55:38,949 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 11:55:42,261 INFO:Pay to the order of: US Food Service
-2023-05-11 11:57:17,858 INFO:=================================New Extraction started===============================
-2023-05-11 11:57:22,170 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 11:57:23,735 INFO:Formated Date: 0328
-2023-05-11 11:57:23,933 INFO:Amount: 40.85
-2023-05-11 11:57:23,933 INFO:New Folder Name: 2023 
-2023-05-11 11:57:23,933 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 11:57:23,935 INFO:Error occurred while processing 0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf:[Errno 2] No such file or directory: 'C:/LLC2\\2023 \\0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf' 
-2023-05-11 11:57:27,133 INFO:Pay to the order of: RR Donnelley
-2023-05-11 11:57:28,694 INFO:Formated Date: 0505
-2023-05-11 11:57:28,901 INFO:Amount: 314.64
-2023-05-11 11:57:28,901 INFO:New Folder Name: 2023 SUPER 8 PRESTONSBURG
-2023-05-11 11:57:28,902 INFO:file name replace with: 0505 RR Donnelley $314.64.pdf
-2023-05-11 11:57:28,903 INFO:PDF file moved to folder 2023 SUPER 8 PRESTONSBURG
-2023-05-11 11:57:28,908 INFO:Data Extacted Scuessfully
-2023-05-11 11:58:01,192 INFO:=================================New Extraction started===============================
-2023-05-11 11:58:05,301 INFO:QUALITY INN DUNDEE
-2023-05-11 11:58:05,533 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 11:58:07,099 INFO:Formated Date: 0328
-2023-05-11 11:58:07,299 INFO:Amount: 40.85
-2023-05-11 11:58:07,299 INFO:New Folder Name: 2023 QUALITY INN DUNDEE
-2023-05-11 11:58:07,299 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 11:58:07,301 INFO:PDF file moved to folder 2023 QUALITY INN DUNDEE
-2023-05-11 11:58:07,303 INFO:Data Extacted Scuessfully
-2023-05-11 12:07:02,315 INFO:=================================New Extraction started===============================
-2023-05-11 12:07:06,917 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:07:07,160 INFO:Pay to the order of: Corporate Identity, Inc.
-2023-05-11 12:19:42,588 INFO:=================================New Extraction started===============================
-2023-05-11 12:19:47,041 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:19:47,279 INFO:Pay to the order of: Corporate Identity, Inc.
-2023-05-11 12:19:48,866 INFO:Formated Date: 0418
-2023-05-11 12:19:49,067 INFO:Amount: 167.48
-2023-05-11 12:19:49,067 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:19:49,067 INFO:file name replace with: 0418 Corporate Identity, Inc. $167.48.pdf
-2023-05-11 12:19:49,072 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:19:52,546 INFO:HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:19:52,546 INFO:HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:19:52,779 INFO:Pay to the order of: AT&T - 72037
-2023-05-11 12:19:54,354 INFO:Formated Date: 0418
-2023-05-11 12:19:54,558 INFO:Amount: 292.17
-2023-05-11 12:19:54,558 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:19:54,558 INFO:file name replace with: 0418 AT&T - 72037 $292.17.pdf
-2023-05-11 12:19:54,559 INFO:Folder created for 2023 HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:19:54,565 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:19:57,623 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 12:19:57,865 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 12:19:59,481 INFO:Formated Date: 0504
-2023-05-11 12:19:59,688 INFO:Amount: 887.00
-2023-05-11 12:19:59,689 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 12:19:59,689 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 12:19:59,693 INFO:PDF file moved to folder 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 12:20:03,119 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 12:20:03,341 INFO:Pay to the order of: Cintas
-2023-05-11 12:20:05,254 INFO:Formated Date: 0504
-2023-05-11 12:20:05,475 INFO:Amount: 162.60
-2023-05-11 12:20:05,475 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 12:20:05,475 INFO:file name replace with: 0504 Cintas $162.60.pdf
-2023-05-11 12:20:05,476 INFO:Folder created for 2023 HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 12:20:05,481 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 12:20:08,740 INFO:Pay to the order of: US Food Service
-2023-05-11 12:20:39,815 INFO:=================================New Extraction started===============================
-2023-05-11 12:21:38,259 INFO:=================================New Extraction started===============================
-2023-05-11 12:22:22,332 INFO:=================================New Extraction started===============================
-2023-05-11 12:22:26,924 INFO:Pay to the order of: ALLBRIDGE
-2023-05-11 12:22:28,469 INFO:Formated Date: 0309
-2023-05-11 12:22:28,677 INFO:Amount: 129.00
-2023-05-11 12:22:28,677 INFO:New Folder Name: 2023 BEST WESTERN HUNTINGTON MALL INN
-2023-05-11 12:22:28,677 INFO:file name replace with: 0309 ALLBRIDGE $129.00.pdf
-2023-05-11 12:22:28,682 INFO:PDF file moved to folder 2023 BEST WESTERN HUNTINGTON MALL INN
-2023-05-11 12:22:32,246 INFO:COMFORT INN BLUEFIELD
-2023-05-11 12:22:32,475 INFO:Pay to the order of: Commtrak
-2023-05-11 12:22:34,034 INFO:Formated Date: 0315
-2023-05-11 12:22:34,234 INFO:Amount: 75.30
-2023-05-11 12:22:34,235 INFO:New Folder Name: 2023 COMFORT INN BLUEFIELD
-2023-05-11 12:22:34,235 INFO:file name replace with: 0315 Commtrak $75.30.pdf
-2023-05-11 12:22:34,239 INFO:PDF file moved to folder 2023 COMFORT INN BLUEFIELD
-2023-05-11 12:22:36,338 INFO:WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 12:22:36,545 INFO:Pay to the order of: Ecolab
-2023-05-11 12:22:38,127 INFO:Formated Date: 0316
-2023-05-11 12:22:38,332 INFO:Amount: 222.09
-2023-05-11 12:22:38,332 INFO:New Folder Name: 2023 WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 12:22:38,332 INFO:file name replace with: 0316 Ecolab $222.09.pdf
-2023-05-11 12:22:38,335 INFO:PDF file moved to folder 2023 WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 12:22:41,847 INFO:DAYS INN PRINCETON
-2023-05-11 12:22:42,097 INFO:Pay to the order of: J & M Heating and Air Conditioning
-2023-05-11 12:22:43,658 INFO:Formated Date: 0317
-2023-05-11 12:22:43,867 INFO:Amount: 169.60
-2023-05-11 12:22:43,867 INFO:New Folder Name: 2022 DAYS INN PRINCETON
-2023-05-11 12:22:43,868 INFO:file name replace with: 0317 J & M Heating and Air Conditioning $169.60.pdf
-2023-05-11 12:22:43,873 INFO:PDF file moved to folder 2022 DAYS INN PRINCETON
-2023-05-11 12:22:47,487 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:22:47,711 INFO:Pay to the order of: Royal Cup
-2023-05-11 12:22:49,270 INFO:Formated Date: 0418
-2023-05-11 12:22:49,470 INFO:Amount: 1,599.51
-2023-05-11 12:22:49,470 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:22:49,470 INFO:file name replace with: 0418 Royal Cup $1,599.51.pdf
-2023-05-11 12:22:49,475 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:22:53,008 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:22:53,232 INFO:Pay to the order of: Royal Cup
-2023-05-11 12:22:54,853 INFO:Formated Date: 0418
-2023-05-11 12:22:55,075 INFO:Amount: 1,599.51
-2023-05-11 12:22:55,075 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:22:55,075 INFO:file name replace with: 0418 Royal Cup $1,599.51.pdf
-2023-05-11 12:22:55,079 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:22:58,607 INFO:WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 12:22:58,833 INFO:Pay to the order of: Cintas
-2023-05-11 12:23:00,422 INFO:Formated Date: 0324
-2023-05-11 12:23:00,622 INFO:Amount: 95.40
-2023-05-11 12:23:00,622 INFO:New Folder Name: 2023 WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 12:23:00,622 INFO:file name replace with: 0324 Cintas $95.40.pdf
-2023-05-11 12:23:00,625 INFO:PDF file moved to folder 2023 WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 12:23:04,314 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 12:23:05,876 INFO:Formated Date: 0328
-2023-05-11 12:23:06,085 INFO:Amount: 40.85
-2023-05-11 12:23:06,085 INFO:New Folder Name: 2023 
-2023-05-11 12:23:06,086 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 12:23:06,087 INFO:Error occurred while processing 0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf:[Errno 2] No such file or directory: 'C:/LLC2\\2023 \\0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf' 
-2023-05-11 12:23:09,574 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:23:09,798 INFO:Pay to the order of: HD Supply
-2023-05-11 12:23:11,380 INFO:Formated Date: 0418
-2023-05-11 12:23:11,596 INFO:Amount: 410.09
-2023-05-11 12:23:11,596 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:23:11,596 INFO:file name replace with: 0418 HD Supply $410.09.pdf
-2023-05-11 12:23:11,599 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:23:15,201 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:23:15,441 INFO:Pay to the order of: Corporate Identity, Inc.
-2023-05-11 12:23:17,013 INFO:Formated Date: 0418
-2023-05-11 12:23:17,217 INFO:Amount: 167.48
-2023-05-11 12:23:17,218 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:23:17,218 INFO:file name replace with: 0418 Corporate Identity, Inc. $167.48.pdf
-2023-05-11 12:23:17,221 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:23:21,048 INFO:HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:23:21,049 INFO:HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:23:21,298 INFO:Pay to the order of: AT&T - 72037
-2023-05-11 12:23:22,915 INFO:Formated Date: 0418
-2023-05-11 12:23:23,119 INFO:Amount: 292.17
-2023-05-11 12:23:23,119 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:23:23,119 INFO:file name replace with: 0418 AT&T - 72037 $292.17.pdf
-2023-05-11 12:23:23,125 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:23:26,600 INFO:QUALITY INN DUNDEE
-2023-05-11 12:23:26,816 INFO:Pay to the order of: STI Networks
-2023-05-11 12:23:28,402 INFO:Formated Date: 0504
-2023-05-11 12:23:28,627 INFO:Amount: 95.00
-2023-05-11 12:23:28,627 INFO:New Folder Name: 2023 QUALITY INN DUNDEE
-2023-05-11 12:23:28,627 INFO:file name replace with: 0504 STI Networks $95.00.pdf
-2023-05-11 12:23:28,633 INFO:PDF file moved to folder 2023 QUALITY INN DUNDEE
-2023-05-11 12:23:31,859 INFO:COUNTRY INN & SUITES PRINCETON
-2023-05-11 12:23:32,090 INFO:Pay to the order of: MOUNTAINEER GAS
-2023-05-11 12:23:33,663 INFO:Formated Date: 0504
-2023-05-11 12:23:33,869 INFO:Amount: 1,104.27
-2023-05-11 12:23:33,869 INFO:New Folder Name: 2023 COUNTRY INN & SUITES PRINCETON
-2023-05-11 12:23:33,869 INFO:file name replace with: 0504 MOUNTAINEER GAS $1,104.27.pdf
-2023-05-11 12:23:33,873 INFO:PDF file moved to folder 2023 COUNTRY INN & SUITES PRINCETON
-2023-05-11 12:23:37,252 INFO:Pay to the order of: US Food Service
-2023-05-11 12:28:55,850 INFO:=================================New Extraction started===============================
-2023-05-11 12:29:00,366 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 12:29:01,961 INFO:Formated Date: 0328
-2023-05-11 12:29:02,176 INFO:Amount: 40.85
-2023-05-11 12:29:45,436 INFO:=================================New Extraction started===============================
-2023-05-11 12:29:49,892 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 12:29:51,460 INFO:Formated Date: 0328
-2023-05-11 12:29:51,658 INFO:Amount: 40.85
-2023-05-11 12:30:12,264 INFO:=================================New Extraction started===============================
-2023-05-11 12:30:16,782 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 12:30:18,374 INFO:Formated Date: 0328
-2023-05-11 12:30:18,592 INFO:Amount: 40.85
-2023-05-11 12:30:18,600 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 12:30:18,601 INFO:Error occurred while processing 0324 Petty Cash $40.85-- goes in QUALITY INN DUNDEE (1) - Copy.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:30:21,834 INFO:Pay to the order of: US Food Service
-2023-05-11 12:30:23,372 INFO:Data Extacted Scuessfully
-2023-05-11 12:36:25,891 INFO:=================================New Extraction started===============================
-2023-05-11 12:36:29,800 INFO:Pay to the order of: US Food Service
-2023-05-11 12:36:31,357 INFO:Data Extacted Scuessfully
-2023-05-11 12:37:22,871 INFO:=================================New Extraction started===============================
-2023-05-11 12:37:27,020 INFO:Pay to the order of: US Food Service
-2023-05-11 12:37:28,597 INFO:Invalid date format
-2023-05-11 12:37:28,598 INFO:Data Extacted Scuessfully
-2023-05-11 12:40:28,029 INFO:=================================New Extraction started===============================
-2023-05-11 12:40:32,197 INFO:Pay to the order of: US Food Service
-2023-05-11 12:40:33,780 INFO:Invalid date format
-2023-05-11 12:40:33,781 INFO:Data Extacted Scuessfully
-2023-05-11 12:42:18,536 INFO:=================================New Extraction started===============================
-2023-05-11 12:42:22,632 INFO:Pay to the order of: US Food Service
-2023-05-11 12:42:24,213 INFO:Data Extacted Scuessfully
-2023-05-11 12:43:35,853 INFO:=================================New Extraction started===============================
-2023-05-11 12:43:39,945 INFO:Pay to the order of: US Food Service
-2023-05-11 12:43:41,512 INFO:Invalid date formatVIM LULI
-2023-05-11 12:43:41,513 INFO:Data Extacted Scuessfully
-2023-05-11 12:50:14,161 INFO:=================================New Extraction started===============================
-2023-05-11 12:50:18,087 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 12:50:18,322 INFO:Pay to the order of: Cintas
-2023-05-11 12:50:19,880 INFO:Formated Date: 0504
-2023-05-11 12:50:20,098 INFO:Amount: 162.60
-2023-05-11 12:50:20,098 INFO:New Folder Name: (2023, 'HOLIDAY INN EXPRESS PRINCETON')
-2023-05-11 12:50:20,098 INFO:file name replace with: 0504 Cintas $162.60.pdf
-2023-05-11 12:50:20,098 INFO:Error occurred while processing .pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:50:23,647 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:50:23,878 INFO:Pay to the order of: Royal Cup
-2023-05-11 12:50:25,420 INFO:Formated Date: 0418
-2023-05-11 12:50:25,632 INFO:Amount: 1,599.51
-2023-05-11 12:50:25,632 INFO:New Folder Name: (2023, 'HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON')
-2023-05-11 12:50:25,634 INFO:file name replace with: 0418 Royal Cup $1,599.51.pdf
-2023-05-11 12:50:25,634 INFO:Error occurred while processing 03182023_0602.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:50:29,232 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:50:29,466 INFO:Pay to the order of: Royal Cup
-2023-05-11 12:50:31,064 INFO:Formated Date: 0418
-2023-05-11 12:50:31,315 INFO:Amount: 1,599.51
-2023-05-11 12:50:31,315 INFO:New Folder Name: (2023, 'HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON')
-2023-05-11 12:50:31,316 INFO:file name replace with: 0418 Royal Cup $1,599.51.pdf
-2023-05-11 12:50:31,316 INFO:Error occurred while processing 03182023_HOLIDAY INN EXPRESS &SUITES 95 RHL BLVD SOUTH CHARLESTO (1).pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:50:34,836 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:50:35,076 INFO:Pay to the order of: Corporate Identity, Inc.
-2023-05-11 12:50:36,578 INFO:Formated Date: 0418
-2023-05-11 12:50:36,780 INFO:Amount: 167.48
-2023-05-11 12:50:36,780 INFO:New Folder Name: (2023, 'HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON')
-2023-05-11 12:50:36,780 INFO:file name replace with: 0418 Corporate Identity, Inc. $167.48.pdf
-2023-05-11 12:50:36,780 INFO:Error occurred while processing 03202023_HOLIDAY INN EXPRESS &SUITES 95 RHL BLVD SOUTH CHARLESTO.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:50:39,766 INFO:WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 12:50:39,910 INFO:Pay to the order of: Cintas
-2023-05-11 12:50:41,301 INFO:Formated Date: 0324
-2023-05-11 12:50:41,447 INFO:Amount: 95.40
-2023-05-11 12:50:41,448 INFO:New Folder Name: (2023, 'WYNDHAM GARDEN HOTEL CROSS LANES')
-2023-05-11 12:50:41,448 INFO:file name replace with: 0324 Cintas $95.40.pdf
-2023-05-11 12:50:41,448 INFO:Error occurred while processing 0324 Petty $g 795.40.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:50:44,358 INFO:QUALITY INN DUNDEE
-2023-05-11 12:50:44,501 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 12:50:45,841 INFO:Formated Date: 0328
-2023-05-11 12:50:45,974 INFO:Amount: 40.85
-2023-05-11 12:50:45,975 INFO:New Folder Name: (2023, 'QUALITY INN DUNDEE')
-2023-05-11 12:50:45,975 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 12:50:45,975 INFO:Error occurred while processing 0328 Petty $ 40.85.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:50:48,583 INFO:DAYS INN PRINCETON
-2023-05-11 12:50:48,728 INFO:Pay to the order of: Super Laundry
-2023-05-11 12:50:50,086 INFO:Formated Date: 0407
-2023-05-11 12:50:50,211 INFO:Amount: 11,776.42
-2023-05-11 12:50:50,211 INFO:New Folder Name: (2023, 'DAYS INN PRINCETON')
-2023-05-11 12:50:50,211 INFO:file name replace with: 0407 Super Laundry $11,776.42.pdf
-2023-05-11 12:50:50,211 INFO:Error occurred while processing 04072023_1237.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:50:52,898 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:50:53,123 INFO:Pay to the order of: HD Supply
-2023-05-11 12:50:54,687 INFO:Formated Date: 0418
-2023-05-11 12:50:54,898 INFO:Amount: 410.09
-2023-05-11 12:50:54,898 INFO:New Folder Name: (2023, 'HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON')
-2023-05-11 12:50:54,898 INFO:file name replace with: 0418 HD Supply $410.09.pdf
-2023-05-11 12:50:54,898 INFO:Error occurred while processing 04072023_HOLIDAY INN EXPRESS &SUITES 95 RHL BLVD SOUTH CHARLESTO.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:50:58,385 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:50:58,614 INFO:Pay to the order of: HD Supply
-2023-05-11 12:51:00,200 INFO:Formated Date: 0418
-2023-05-11 12:51:00,410 INFO:Amount: 410.09
-2023-05-11 12:51:00,410 INFO:New Folder Name: (2023, 'HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON')
-2023-05-11 12:51:00,411 INFO:file name replace with: 0418 HD Supply $410.09.pdf
-2023-05-11 12:51:00,411 INFO:Error occurred while processing 04182023.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:51:03,953 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:51:04,200 INFO:Pay to the order of: Corporate Identity, Inc.
-2023-05-11 12:51:05,783 INFO:Formated Date: 0418
-2023-05-11 12:51:05,993 INFO:Amount: 167.48
-2023-05-11 12:51:05,993 INFO:New Folder Name: (2023, 'HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON')
-2023-05-11 12:51:05,993 INFO:file name replace with: 0418 Corporate Identity, Inc. $167.48.pdf
-2023-05-11 12:51:05,993 INFO:Error occurred while processing 04182023_0600 (1).pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:51:09,726 INFO:HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:51:09,727 INFO:HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:51:09,959 INFO:Pay to the order of: AT&T - 72037
-2023-05-11 12:51:11,547 INFO:Formated Date: 0418
-2023-05-11 12:51:11,760 INFO:Amount: 292.17
-2023-05-11 12:51:11,761 INFO:New Folder Name: (2023, 'HOLIDAY INN EXPRESS CHARLESTON')
-2023-05-11 12:51:11,761 INFO:file name replace with: 0418 AT&T - 72037 $292.17.pdf
-2023-05-11 12:51:11,761 INFO:Error occurred while processing 04182023_HOLIDAY INN EXPRESS 107 ALEX LANE CHARLESTON, WV 25304_001.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:51:15,296 INFO:QUALITY INN BECKLEY
-2023-05-11 12:51:15,530 INFO:Pay to the order of: Cintas
-2023-05-11 12:51:17,115 INFO:Formated Date: 0418
-2023-05-11 12:51:17,325 INFO:Amount: 474.90
-2023-05-11 12:51:17,326 INFO:New Folder Name: (2023, 'QUALITY INN BECKLEY')
-2023-05-11 12:51:17,326 INFO:file name replace with: 0418 Cintas $474.90.pdf
-2023-05-11 12:51:17,326 INFO:Error occurred while processing 04182023_QUALITY INN 1924 Harper Rd Beckley, WV 25801.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:51:20,416 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 12:51:20,656 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 12:51:22,247 INFO:Formated Date: 0504
-2023-05-11 12:51:22,455 INFO:Amount: 887.00
-2023-05-11 12:51:22,455 INFO:New Folder Name: (2023, 'HOLIDAY INN HOTEL & SUITES BECKLEY')
-2023-05-11 12:51:22,455 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 12:51:22,455 INFO:Error occurred while processing 04192023_13453.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:51:25,534 INFO:QUALITY INN DUNDEE
-2023-05-11 12:51:25,765 INFO:Pay to the order of: STI Networks
-2023-05-11 12:51:27,359 INFO:Formated Date: 0504
-2023-05-11 12:51:27,575 INFO:Amount: 95.00
-2023-05-11 12:51:27,575 INFO:New Folder Name: (2023, 'QUALITY INN DUNDEE')
-2023-05-11 12:51:27,575 INFO:file name replace with: 0504 STI Networks $95.00.pdf
-2023-05-11 12:51:27,575 INFO:Error occurred while processing 04252023_11513.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:51:30,672 INFO:COUNTRY INN & SUITES PRINCETON
-2023-05-11 12:51:30,909 INFO:Pay to the order of: MOUNTAINEER GAS
-2023-05-11 12:51:32,500 INFO:Formated Date: 0504
-2023-05-11 12:51:32,709 INFO:Amount: 1,104.27
-2023-05-11 12:51:32,709 INFO:New Folder Name: (2023, 'COUNTRY INN & SUITES PRINCETON')
-2023-05-11 12:51:32,710 INFO:file name replace with: 0504 MOUNTAINEER GAS $1,104.27.pdf
-2023-05-11 12:51:32,710 INFO:Error occurred while processing 05042023_13756.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:51:35,765 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 12:51:35,982 INFO:Pay to the order of: Cintas
-2023-05-11 12:51:37,581 INFO:Formated Date: 0504
-2023-05-11 12:51:37,802 INFO:Amount: 162.60
-2023-05-11 12:51:37,802 INFO:New Folder Name: (2023, 'HOLIDAY INN EXPRESS PRINCETON')
-2023-05-11 12:51:37,802 INFO:file name replace with: 0504 Cintas $162.60.pdf
-2023-05-11 12:51:37,802 INFO:Error occurred while processing 05042023_1468.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:51:41,114 INFO:Pay to the order of: Turner Leasing Co., Inc.
-2023-05-11 12:51:42,724 INFO:Formated Date: 0504
-2023-05-11 12:51:42,946 INFO:Amount: 169.60
-2023-05-11 12:51:42,946 INFO:New Folder Name: (2023, 'COUNTRY INN & SUITES BECKLEY')
-2023-05-11 12:51:42,946 INFO:file name replace with: 0504 Turner Leasing Co., Inc. $169.60.pdf
-2023-05-11 12:51:42,946 INFO:Error occurred while processing 05042023_1856.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:51:46,018 INFO:HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 12:51:46,244 INFO:Pay to the order of: Royal Cup
-2023-05-11 12:51:47,841 INFO:Formated Date: 0505
-2023-05-11 12:51:48,049 INFO:Amount: 1,064.84
-2023-05-11 12:51:48,049 INFO:New Folder Name: (2023, 'HOLIDAY INN EXPRESS & SUITES PIKEVILLE')
-2023-05-11 12:51:48,049 INFO:file name replace with: 0505 Royal Cup $1,064.84.pdf
-2023-05-11 12:51:48,050 INFO:Error occurred while processing 05052023_1623.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:51:51,362 INFO:Pay to the order of: US Food Service
-2023-05-11 12:51:52,968 INFO:Invalid date formatVIM LULI
-2023-05-11 12:51:56,292 INFO:Pay to the order of: RR Donnelley
-2023-05-11 12:51:57,900 INFO:Formated Date: 0505
-2023-05-11 12:51:58,114 INFO:Amount: 314.64
-2023-05-11 12:51:58,114 INFO:New Folder Name: (2023, 'SUPER 8 PRESTONSBURG')
-2023-05-11 12:51:58,114 INFO:file name replace with: 0505 RR Donnelley $314.64.pdf
-2023-05-11 12:51:58,114 INFO:Error occurred while processing 05052023_6909.pdf:join() argument must be str, bytes, or os.PathLike object, not 'tuple' 
-2023-05-11 12:51:58,115 INFO:Data Extacted Scuessfully
-2023-05-11 12:56:56,431 INFO:=================================New Extraction started===============================
-2023-05-11 12:57:00,490 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 12:57:00,709 INFO:Pay to the order of: Cintas
-2023-05-11 12:57:02,275 INFO:Formated Date: 0504
-2023-05-11 12:57:02,479 INFO:Amount: 162.60
-2023-05-11 12:57:02,479 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 12:57:02,479 INFO:file name replace with: 0504 Cintas $162.60.pdf
-2023-05-11 12:57:02,481 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 12:57:06,045 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:06,269 INFO:Pay to the order of: Royal Cup
-2023-05-11 12:57:07,844 INFO:Formated Date: 0418
-2023-05-11 12:57:08,050 INFO:Amount: 1,599.51
-2023-05-11 12:57:08,050 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:08,050 INFO:file name replace with: 0418 Royal Cup $1,599.51.pdf
-2023-05-11 12:57:08,051 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:11,596 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:11,827 INFO:Pay to the order of: Royal Cup
-2023-05-11 12:57:13,435 INFO:Formated Date: 0418
-2023-05-11 12:57:13,710 INFO:Amount: 1,599.51
-2023-05-11 12:57:13,712 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:13,712 INFO:file name replace with: 0418 Royal Cup $1,599.51.pdf
-2023-05-11 12:57:13,774 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:17,384 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:17,610 INFO:Pay to the order of: Corporate Identity, Inc.
-2023-05-11 12:57:19,144 INFO:Formated Date: 0418
-2023-05-11 12:57:19,386 INFO:Amount: 167.48
-2023-05-11 12:57:19,386 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:19,386 INFO:file name replace with: 0418 Corporate Identity, Inc. $167.48.pdf
-2023-05-11 12:57:19,387 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:22,888 INFO:WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 12:57:23,095 INFO:Pay to the order of: Cintas
-2023-05-11 12:57:24,596 INFO:Formated Date: 0324
-2023-05-11 12:57:24,811 INFO:Amount: 95.40
-2023-05-11 12:57:24,811 INFO:New Folder Name: 2023 WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 12:57:24,811 INFO:file name replace with: 0324 Cintas $95.40.pdf
-2023-05-11 12:57:24,812 INFO:PDF file moved to folder 2023 WYNDHAM GARDEN HOTEL CROSS LANES
-2023-05-11 12:57:28,256 INFO:QUALITY INN DUNDEE
-2023-05-11 12:57:28,501 INFO:Pay to the order of: Jillann Mattingly
-2023-05-11 12:57:30,038 INFO:Formated Date: 0328
-2023-05-11 12:57:30,275 INFO:Amount: 40.85
-2023-05-11 12:57:30,276 INFO:New Folder Name: 2023 QUALITY INN DUNDEE
-2023-05-11 12:57:30,276 INFO:file name replace with: 0328 Jillann Mattingly $40.85.pdf
-2023-05-11 12:57:30,277 INFO:PDF file moved to folder 2023 QUALITY INN DUNDEE
-2023-05-11 12:57:33,778 INFO:DAYS INN PRINCETON
-2023-05-11 12:57:34,026 INFO:Pay to the order of: Super Laundry
-2023-05-11 12:57:35,776 INFO:Formated Date: 0407
-2023-05-11 12:57:36,018 INFO:Amount: 11,776.42
-2023-05-11 12:57:36,018 INFO:New Folder Name: 2023 DAYS INN PRINCETON
-2023-05-11 12:57:36,018 INFO:file name replace with: 0407 Super Laundry $11,776.42.pdf
-2023-05-11 12:57:36,019 INFO:Folder created for 2023 DAYS INN PRINCETON
-2023-05-11 12:57:36,020 INFO:PDF file moved to folder 2023 DAYS INN PRINCETON
-2023-05-11 12:57:39,557 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:39,780 INFO:Pay to the order of: HD Supply
-2023-05-11 12:57:41,343 INFO:Formated Date: 0418
-2023-05-11 12:57:41,546 INFO:Amount: 410.09
-2023-05-11 12:57:41,547 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:41,547 INFO:file name replace with: 0418 HD Supply $410.09.pdf
-2023-05-11 12:57:41,548 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:44,996 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:45,227 INFO:Pay to the order of: HD Supply
-2023-05-11 12:57:46,783 INFO:Formated Date: 0418
-2023-05-11 12:57:47,020 INFO:Amount: 410.09
-2023-05-11 12:57:47,020 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:47,021 INFO:file name replace with: 0418 HD Supply $410.09.pdf
-2023-05-11 12:57:47,022 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:50,553 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:50,793 INFO:Pay to the order of: Corporate Identity, Inc.
-2023-05-11 12:57:52,431 INFO:Formated Date: 0418
-2023-05-11 12:57:52,657 INFO:Amount: 167.48
-2023-05-11 12:57:52,658 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:52,658 INFO:file name replace with: 0418 Corporate Identity, Inc. $167.48.pdf
-2023-05-11 12:57:52,659 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
-2023-05-11 12:57:56,213 INFO:HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:57:56,213 INFO:HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:57:56,504 INFO:Pay to the order of: AT&T - 72037
-2023-05-11 12:57:58,041 INFO:Formated Date: 0418
-2023-05-11 12:57:58,289 INFO:Amount: 292.17
-2023-05-11 12:57:58,289 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:57:58,289 INFO:file name replace with: 0418 AT&T - 72037 $292.17.pdf
-2023-05-11 12:57:58,290 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS CHARLESTON
-2023-05-11 12:58:01,946 INFO:QUALITY INN BECKLEY
-2023-05-11 12:58:02,170 INFO:Pay to the order of: Cintas
-2023-05-11 12:58:03,782 INFO:Formated Date: 0418
-2023-05-11 12:58:04,016 INFO:Amount: 474.90
-2023-05-11 12:58:04,016 INFO:New Folder Name: 2023 QUALITY INN BECKLEY
-2023-05-11 12:58:04,016 INFO:file name replace with: 0418 Cintas $474.90.pdf
-2023-05-11 12:58:04,017 INFO:Folder created for 2023 QUALITY INN BECKLEY
-2023-05-11 12:58:04,018 INFO:PDF file moved to folder 2023 QUALITY INN BECKLEY
-2023-05-11 12:58:07,088 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 12:58:07,310 INFO:Pay to the order of: Cintas Corporation
-2023-05-11 12:58:08,861 INFO:Formated Date: 0504
-2023-05-11 12:58:09,192 INFO:Amount: 887.00
-2023-05-11 12:58:09,193 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 12:58:09,193 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
-2023-05-11 12:58:09,195 INFO:PDF file moved to folder 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
-2023-05-11 12:58:12,771 INFO:QUALITY INN DUNDEE
-2023-05-11 12:58:12,983 INFO:Pay to the order of: STI Networks
-2023-05-11 12:58:15,725 INFO:Formated Date: 0504
-2023-05-11 12:58:15,929 INFO:Amount: 95.00
-2023-05-11 12:58:15,929 INFO:New Folder Name: 2023 QUALITY INN DUNDEE
-2023-05-11 12:58:15,929 INFO:file name replace with: 0504 STI Networks $95.00.pdf
-2023-05-11 12:58:15,930 INFO:PDF file moved to folder 2023 QUALITY INN DUNDEE
-2023-05-11 12:58:18,928 INFO:COUNTRY INN & SUITES PRINCETON
-2023-05-11 12:58:19,159 INFO:Pay to the order of: MOUNTAINEER GAS
-2023-05-11 12:58:20,710 INFO:Formated Date: 0504
-2023-05-11 12:58:20,907 INFO:Amount: 1,104.27
-2023-05-11 12:58:20,907 INFO:New Folder Name: 2023 COUNTRY INN & SUITES PRINCETON
-2023-05-11 12:58:20,908 INFO:file name replace with: 0504 MOUNTAINEER GAS $1,104.27.pdf
-2023-05-11 12:58:20,909 INFO:PDF file moved to folder 2023 COUNTRY INN & SUITES PRINCETON
-2023-05-11 12:58:23,947 INFO:HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 12:58:24,335 INFO:Pay to the order of: Cintas
-2023-05-11 12:58:26,199 INFO:Formated Date: 0504
-2023-05-11 12:58:26,411 INFO:Amount: 162.60
-2023-05-11 12:58:26,411 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 12:58:26,411 INFO:file name replace with: 0504 Cintas $162.60.pdf
-2023-05-11 12:58:26,412 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS PRINCETON
-2023-05-11 12:58:29,871 INFO:Pay to the order of: Turner Leasing Co., Inc.
-2023-05-11 12:58:31,391 INFO:Formated Date: 0504
-2023-05-11 12:58:31,600 INFO:Amount: 169.60
-2023-05-11 12:58:31,600 INFO:New Folder Name: 2023 COUNTRY INN & SUITES BECKLEY
-2023-05-11 12:58:31,600 INFO:file name replace with: 0504 Turner Leasing Co., Inc. $169.60.pdf
-2023-05-11 12:58:31,602 INFO:PDF file moved to folder 2023 COUNTRY INN & SUITES BECKLEY
-2023-05-11 12:58:34,859 INFO:HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 12:58:35,085 INFO:Pay to the order of: Royal Cup
-2023-05-11 12:58:36,643 INFO:Formated Date: 0505
-2023-05-11 12:58:36,846 INFO:Amount: 1,064.84
-2023-05-11 12:58:36,847 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 12:58:36,847 INFO:file name replace with: 0505 Royal Cup $1,064.84.pdf
-2023-05-11 12:58:36,848 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
-2023-05-11 12:58:40,085 INFO:Pay to the order of: US Food Service
-2023-05-11 12:58:41,661 INFO:Invalid date format
-2023-05-11 12:58:44,886 INFO:Pay to the order of: RR Donnelley
-2023-05-11 12:58:46,440 INFO:Formated Date: 0505
-2023-05-11 12:58:46,638 INFO:Amount: 314.64
-2023-05-11 12:58:46,638 INFO:New Folder Name: 2023 SUPER 8 PRESTONSBURG
-2023-05-11 12:58:46,638 INFO:file name replace with: 0505 RR Donnelley $314.64.pdf
-2023-05-11 12:58:46,640 INFO:PDF file moved to folder 2023 SUPER 8 PRESTONSBURG
-2023-05-11 12:58:46,644 INFO:Data Extacted Scuessfully
-2023-05-13 10:24:06,428 INFO:=================================New Extraction started===============================
-2023-05-13 10:24:10,241 INFO:Pay to the order of: US Food Service
-2023-05-13 10:24:11,597 ERROR:Invalid date format
-2023-05-13 10:24:13,463 INFO:Pay to the order of: Pepsi
-2023-05-13 10:25:24,948 INFO:=================================New Extraction started===============================
-2023-05-13 10:25:27,350 INFO:Pay to the order of: Pepsi
-2023-05-13 10:26:23,966 INFO:=================================New Extraction started===============================
-2023-05-13 10:26:26,371 INFO:Pay to the order of: Pepsi
-2023-05-13 10:28:57,801 INFO:=================================New Extraction started===============================
-2023-05-13 10:29:00,919 INFO:QUALITY INN BECKLEY
-2023-05-13 10:29:01,059 INFO:Pay to the order of: TekSecute
-2023-05-13 10:29:58,024 INFO:=================================New Extraction started===============================
-2023-05-13 10:30:01,073 INFO:QUALITY INN BECKLEY
-2023-05-13 10:30:01,209 INFO:Pay to the order of: TekSecute
-2023-05-13 10:31:05,305 INFO:=================================New Extraction started===============================
-2023-05-13 10:31:08,317 INFO:QUALITY INN BECKLEY
-2023-05-13 10:31:08,458 INFO:Pay to the order of: TekSecute
-2023-05-13 10:42:17,702 INFO:=================================New Extraction started===============================
-2023-05-13 10:42:20,841 INFO:QUALITY INN BECKLEY
-2023-05-13 10:42:20,987 INFO:Pay to the order of: TekSecute
-2023-05-13 10:45:20,890 INFO:=================================New Extraction started===============================
-2023-05-13 10:45:24,005 INFO:QUALITY INN BECKLEY
-2023-05-13 10:45:24,146 INFO:Pay to the order of: TekSecute
+2023-05-19 14:03:29,407 INFO:=================================New Extraction started===============================
+2023-05-19 14:03:30,543 INFO:HOLIDAY INN EXPRESS PRINCETON
+2023-05-19 14:03:32,738 INFO:Pay to the order of: Cintas
+2023-05-19 14:03:34,087 INFO:Formated Date: 0504
+2023-05-19 14:03:34,211 INFO:Amount: 162.60
+2023-05-19 14:03:34,211 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS PRINCETON
+2023-05-19 14:03:34,211 INFO:file name replace with: 0504 Cintas $162.60.pdf
+2023-05-19 14:03:34,212 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS PRINCETON
+2023-05-19 14:03:36,918 INFO:Pay to the order of: ALLBRIDGE
+2023-05-19 14:03:38,275 INFO:Formated Date: 0309
+2023-05-19 14:03:38,399 INFO:Amount: 429.00
+2023-05-19 14:03:38,399 INFO:New Folder Name: 2023 BEST WESTERN HUNTINGTON MALL INN
+2023-05-19 14:03:38,399 INFO:file name replace with: 0309 ALLBRIDGE $429.00.pdf
+2023-05-19 14:03:38,400 INFO:PDF file moved to folder 2023 BEST WESTERN HUNTINGTON MALL INN
+2023-05-19 14:03:39,753 INFO:COMFORT INN BLUEFIELD
+2023-05-19 14:03:41,113 INFO:Pay to the order of: Commtrak
+2023-05-19 14:03:42,469 INFO:Formated Date: 0318
+2023-05-19 14:03:42,596 INFO:Amount: 75.30
+2023-05-19 14:03:42,596 INFO:New Folder Name: 2023 COMFORT INN BLUEFIELD
+2023-05-19 14:03:42,596 INFO:file name replace with: 0318 Commtrak $75.30.pdf
+2023-05-19 14:03:42,597 INFO:PDF file moved to folder 2023 COMFORT INN BLUEFIELD
+2023-05-19 14:03:43,006 INFO:WYNDHAM GARDEN HOTEL CROSS LANES
+2023-05-19 14:03:44,357 INFO:Pay to the order of: Ecolab
+2023-05-19 14:03:45,715 INFO:Formated Date: 0316
+2023-05-19 14:03:45,842 INFO:Amount: 222.09
+2023-05-19 14:03:45,842 INFO:New Folder Name: 2023 WYNDHAM GARDEN HOTEL CROSS LANES
+2023-05-19 14:03:45,842 INFO:file name replace with: 0316 Ecolab $222.09.pdf
+2023-05-19 14:03:45,843 INFO:PDF file moved to folder 2023 WYNDHAM GARDEN HOTEL CROSS LANES
+2023-05-19 14:03:47,199 INFO:DAYS INN PRINCETON
+2023-05-19 14:03:48,557 INFO:Pay to the order of: J & M Heating and Air Conditioning
+2023-05-19 14:03:49,897 INFO:Formated Date: 0317
+2023-05-19 14:03:50,023 INFO:Amount: 169.60
+2023-05-19 14:03:50,023 INFO:New Folder Name: 2022 DAYS INN PRINCETON
+2023-05-19 14:03:50,023 INFO:file name replace with: 0317 J & M Heating and Air Conditioning $169.60.pdf
+2023-05-19 14:03:50,024 INFO:PDF file moved to folder 2022 DAYS INN PRINCETON
+2023-05-19 14:03:51,393 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:03:52,733 INFO:Pay to the order of: Royal Cup
+2023-05-19 14:03:54,083 INFO:Formated Date: 0418
+2023-05-19 14:03:54,210 INFO:Amount: 1,599.51
+2023-05-19 14:03:54,211 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:03:54,211 INFO:file name replace with: 0418 Royal Cup $1,599.51.pdf
+2023-05-19 14:03:54,211 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:03:55,589 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:03:56,931 INFO:Pay to the order of: Royal Cup
+2023-05-19 14:03:58,288 INFO:Formated Date: 0418
+2023-05-19 14:03:58,420 INFO:Amount: 1,599.51
+2023-05-19 14:03:58,421 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:03:58,421 INFO:file name replace with: 0418 Royal Cup $1,599.51.pdf
+2023-05-19 14:03:58,421 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:03:59,779 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:04:01,130 INFO:Pay to the order of: Corporate Identity, Inc.
+2023-05-19 14:04:02,482 INFO:Formated Date: 0418
+2023-05-19 14:04:02,614 INFO:Amount: 167.48
+2023-05-19 14:04:02,614 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:04:02,614 INFO:file name replace with: 0418 Corporate Identity, Inc. $167.48.pdf
+2023-05-19 14:04:02,615 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:04:03,942 INFO:WYNDHAM GARDEN HOTEL CROSS LANES
+2023-05-19 14:04:05,293 INFO:Pay to the order of: Cintas
+2023-05-19 14:04:06,642 INFO:Formated Date: 0324
+2023-05-19 14:04:06,771 INFO:Amount: 95.40
+2023-05-19 14:04:06,771 INFO:New Folder Name: 2023 WYNDHAM GARDEN HOTEL CROSS LANES
+2023-05-19 14:04:06,771 INFO:file name replace with: 0324 Cintas $95.40.pdf
+2023-05-19 14:04:06,772 INFO:PDF file moved to folder 2023 WYNDHAM GARDEN HOTEL CROSS LANES
+2023-05-19 14:04:08,100 INFO:QUALITY INN DUNDEE
+2023-05-19 14:04:09,460 INFO:Pay to the order of: dillann Mattingly
+2023-05-19 14:04:10,808 INFO:Formated Date: 0328
+2023-05-19 14:04:10,937 INFO:Amount: 40.85
+2023-05-19 14:04:10,937 INFO:New Folder Name: 2023 QUALITY INN DUNDEE
+2023-05-19 14:04:10,937 INFO:file name replace with: 0328 dillann Mattingly $40.85.pdf
+2023-05-19 14:04:10,939 INFO:PDF file moved to folder 2023 QUALITY INN DUNDEE
+2023-05-19 14:04:12,309 INFO:DAYS INN PRINCETON
+2023-05-19 14:04:13,650 INFO:Pay to the order of: Super Laundry
+2023-05-19 14:04:15,008 INFO:Formated Date: 0471
+2023-05-19 14:04:15,139 INFO:Amount: 11,776.42
+2023-05-19 14:04:15,139 INFO:New Folder Name: 2023 DAYS INN PRINCETON
+2023-05-19 14:04:15,139 INFO:file name replace with: 0471 Super Laundry $11,776.42.pdf
+2023-05-19 14:04:15,140 INFO:PDF file moved to folder 2023 DAYS INN PRINCETON
+2023-05-19 14:04:16,483 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:04:17,815 INFO:Pay to the order of: HD Supply
+2023-05-19 14:04:19,171 INFO:Formated Date: 0448
+2023-05-19 14:04:19,302 INFO:Amount: 410.09
+2023-05-19 14:04:19,302 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:04:19,302 INFO:file name replace with: 0448 HD Supply $410.09.pdf
+2023-05-19 14:04:19,303 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:04:20,637 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:04:21,985 INFO:Pay to the order of: HD Supply
+2023-05-19 14:04:23,328 INFO:Formated Date: 0418
+2023-05-19 14:04:23,451 INFO:Amount: 410.09
+2023-05-19 14:04:23,451 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:04:23,451 INFO:file name replace with: 0418 HD Supply $410.09.pdf
+2023-05-19 14:04:23,452 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:04:24,795 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:04:26,148 INFO:Pay to the order of: Corporate Identity, Inc.
+2023-05-19 14:04:27,505 INFO:Formated Date: 0418
+2023-05-19 14:04:27,628 INFO:Amount: 167.48
+2023-05-19 14:04:27,628 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:04:27,628 INFO:file name replace with: 0418 Corporate Identity, Inc. $167.48.pdf
+2023-05-19 14:04:27,629 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 14:04:29,092 INFO:HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 14:04:29,092 INFO:HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 14:04:30,452 INFO:Pay to the order of: AT&T - 72037
+2023-05-19 14:04:31,808 INFO:Formated Date: 0418
+2023-05-19 14:04:31,932 INFO:Amount: 292.17
+2023-05-19 14:04:31,932 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 14:04:31,932 INFO:file name replace with: 0418 AT&T - 72037 $292.17.pdf
+2023-05-19 14:04:31,933 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 14:04:33,299 INFO:QUALITY INN BECKLEY
+2023-05-19 14:04:34,671 INFO:Pay to the order of: Cintas
+2023-05-19 14:04:36,026 INFO:Formated Date: 0418
+2023-05-19 14:04:36,151 INFO:Amount: 474.90
+2023-05-19 14:04:36,151 INFO:New Folder Name: 2023 QUALITY INN BECKLEY
+2023-05-19 14:04:36,151 INFO:file name replace with: 0418 Cintas $474.90.pdf
+2023-05-19 14:04:36,152 INFO:PDF file moved to folder 2023 QUALITY INN BECKLEY
+2023-05-19 14:04:37,215 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
+2023-05-19 14:04:38,558 INFO:Pay to the order of: Cintas Corporation
+2023-05-19 14:04:39,910 INFO:Formated Date: 0504
+2023-05-19 14:04:40,034 INFO:Amount: 887.00
+2023-05-19 14:04:40,034 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
+2023-05-19 14:04:40,034 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
+2023-05-19 14:04:40,034 INFO:PDF file moved to folder 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
+2023-05-19 14:04:41,094 INFO:QUALITY INN DUNDEE
+2023-05-19 14:04:42,447 INFO:Pay to the order of: STI Networks
+2023-05-19 14:04:43,796 INFO:Formated Date: 0504
+2023-05-19 14:04:43,923 INFO:Amount: 95.00
+2023-05-19 14:04:43,923 INFO:New Folder Name: 2023 QUALITY INN DUNDEE
+2023-05-19 14:04:43,923 INFO:file name replace with: 0504 STI Networks $95.00.pdf
+2023-05-19 14:04:43,924 INFO:PDF file moved to folder 2023 QUALITY INN DUNDEE
+2023-05-19 14:04:45,008 INFO:COUNTRY INN & SUITES PRINCETON
+2023-05-19 14:04:46,361 INFO:Pay to the order of: MOUNTAINEER GAS
+2023-05-19 14:04:47,723 INFO:Formated Date: 0504
+2023-05-19 14:04:47,849 INFO:Amount: 1,104.27
+2023-05-19 14:04:47,849 INFO:New Folder Name: 2023 COUNTRY INN & SUITES PRINCETON
+2023-05-19 14:04:47,849 INFO:file name replace with: 0504 MOUNTAINEER GAS $1,104.27.pdf
+2023-05-19 14:04:47,850 INFO:PDF file moved to folder 2023 COUNTRY INN & SUITES PRINCETON
+2023-05-19 14:04:48,921 INFO:HOLIDAY INN EXPRESS PRINCETON
+2023-05-19 14:04:50,274 INFO:Pay to the order of: Cintas
+2023-05-19 14:04:51,631 INFO:Formated Date: 0504
+2023-05-19 14:04:51,758 INFO:Amount: 162.60
+2023-05-19 14:04:51,758 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS PRINCETON
+2023-05-19 14:04:51,758 INFO:file name replace with: 0504 Cintas $162.60.pdf
+2023-05-19 14:04:51,759 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS PRINCETON
+2023-05-19 14:04:54,189 INFO:Pay to the order of: Turner Leasing Co., Inc.
+2023-05-19 14:04:55,546 INFO:Formated Date: 0504
+2023-05-19 14:04:55,681 INFO:Amount: 169.60
+2023-05-19 14:04:55,681 INFO:New Folder Name: 2023 COUNTRY INN & SUITES BECKLEY
+2023-05-19 14:04:55,681 INFO:file name replace with: 0504 Turner Leasing Co., Inc. $169.60.pdf
+2023-05-19 14:04:55,681 INFO:PDF file moved to folder 2023 COUNTRY INN & SUITES BECKLEY
+2023-05-19 14:04:56,777 INFO:HOLIDAY INN EXPRESS & SUITES PIKEVILLE
+2023-05-19 14:04:58,120 INFO:Pay to the order of: Royal Cup
+2023-05-19 14:04:59,469 INFO:Formated Date: 0505
+2023-05-19 14:04:59,596 INFO:Amount: 1,064.84
+2023-05-19 14:04:59,596 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
+2023-05-19 14:04:59,596 INFO:file name replace with: 0505 Royal Cup $1,064.84.pdf
+2023-05-19 14:04:59,597 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
+2023-05-19 14:05:02,052 INFO:Pay to the order of: US Food Service
+2023-05-19 14:05:03,442 INFO:Formated Date: 0505
+2023-05-19 14:05:03,569 INFO:Amount: 354.38
+2023-05-19 14:05:03,569 INFO:New Folder Name: 2023 QUALITY HOTEL & CONFERENCE CENTER BLUEFIELD
+2023-05-19 14:05:03,570 INFO:file name replace with: 0505 US Food Service $354.38.pdf
+2023-05-19 14:05:03,570 INFO:PDF file moved to folder 2023 QUALITY HOTEL & CONFERENCE CENTER BLUEFIELD
+2023-05-19 14:05:06,039 INFO:Pay to the order of: RR Donnelley
+2023-05-19 14:05:07,412 INFO:Formated Date: 0505
+2023-05-19 14:05:07,552 INFO:Amount: 314.64
+2023-05-19 14:05:07,553 INFO:New Folder Name: 2023 SUPER 8 PRESTONSBURG
+2023-05-19 14:05:07,553 INFO:file name replace with: 0505 RR Donnelley $314.64.pdf
+2023-05-19 14:05:07,553 INFO:PDF file moved to folder 2023 SUPER 8 PRESTONSBURG
+2023-05-19 14:05:08,046 INFO:WINGATE INN BY WYNDHAM HURRICANE
+2023-05-19 14:05:09,401 INFO:Pay to the order of: Pepsi
+2023-05-19 14:05:10,759 INFO:Formated Date: 0512
+2023-05-19 14:05:10,900 INFO:Amount: 431.98
+2023-05-19 14:05:10,900 INFO:New Folder Name: 2023 WINGATE INN BY WYNDHAM HURRICANE
+2023-05-19 14:05:10,900 INFO:file name replace with: 0512 Pepsi $431.98.pdf
+2023-05-19 14:05:10,901 INFO:PDF file moved to folder 2023 WINGATE INN BY WYNDHAM HURRICANE
+2023-05-19 14:05:12,218 INFO:QUALITY INN BECKLEY
+2023-05-19 14:05:13,568 INFO:Pay to the order of: TekSecute
+2023-05-19 14:05:14,930 INFO:Formated Date: 0512
+2023-05-19 14:05:15,051 INFO:Amount: 110.21
+2023-05-19 14:05:15,051 INFO:New Folder Name: 2023 QUALITY INN BECKLEY
+2023-05-19 14:05:15,051 INFO:file name replace with: 0512 TekSecute $110.21.pdf
+2023-05-19 14:05:15,052 INFO:PDF file moved to folder 2023 QUALITY INN BECKLEY
+2023-05-19 14:05:15,538 INFO:HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 14:05:15,539 INFO:HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 14:05:16,906 INFO:Pay to the order of: Link
+2023-05-19 14:05:18,275 INFO:Formated Date: 0512
+2023-05-19 14:05:18,400 INFO:Amount: 840.00
+2023-05-19 14:05:18,400 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 14:05:18,400 INFO:file name replace with: 0512 Link $840.00.pdf
+2023-05-19 14:05:18,401 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 14:05:18,405 INFO:Data Extacted Scuessfully
+2023-05-19 14:06:46,097 INFO:=================================New Extraction started===============================
+
+2023-05-19 14:09:43,535 INFO:=================================New Extraction started===============================
+2023-05-19 14:09:43,536 INFO:Data Extacted Scuessfully
+2023-05-19 15:26:59,665 INFO:=================================New Extraction started===============================
+2023-05-19 15:27:00,826 INFO:HOLIDAY INN EXPRESS PRINCETON
+2023-05-19 15:27:00,951 INFO:Pay to the order of: Cintas
+2023-05-19 15:27:01,086 INFO:Formated Date: 0504
+2023-05-19 15:27:01,211 INFO:Amount: 162.60
+2023-05-19 15:27:01,211 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS PRINCETON
+2023-05-19 15:27:01,211 INFO:file name replace with: 0504 Cintas $162.60.pdf
+2023-05-19 15:27:01,212 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS PRINCETON
+2023-05-19 15:27:02,680 INFO:Pay to the order of: ALLBRIDGE
+2023-05-19 15:27:02,810 INFO:Formated Date: 0309
+2023-05-19 15:27:02,937 INFO:Amount: 429.00
+2023-05-19 15:27:02,937 INFO:New Folder Name: 2023 BEST WESTERN HUNTINGTON MALL INN
+2023-05-19 15:27:02,937 INFO:file name replace with: 0309 ALLBRIDGE $429.00.pdf
+2023-05-19 15:27:02,938 INFO:PDF file moved to folder 2023 BEST WESTERN HUNTINGTON MALL INN
+2023-05-19 15:27:04,342 INFO:COMFORT INN BLUEFIELD
+2023-05-19 15:27:04,503 INFO:Pay to the order of: Commtrak
+2023-05-19 15:27:04,650 INFO:Formated Date: 0318
+2023-05-19 15:27:04,775 INFO:Amount: 75.30
+2023-05-19 15:27:04,775 INFO:New Folder Name: 2023 COMFORT INN BLUEFIELD
+2023-05-19 15:27:04,776 INFO:file name replace with: 0318 Commtrak $75.30.pdf
+2023-05-19 15:27:04,776 INFO:PDF file moved to folder 2023 COMFORT INN BLUEFIELD
+2023-05-19 15:27:05,246 INFO:WYNDHAM GARDEN HOTEL CROSS LANES
+2023-05-19 15:27:05,370 INFO:Pay to the order of: Ecolab
+2023-05-19 15:27:05,507 INFO:Formated Date: 0316
+2023-05-19 15:27:05,655 INFO:Amount: 222.09
+2023-05-19 15:27:05,655 INFO:New Folder Name: 2023 WYNDHAM GARDEN HOTEL CROSS LANES
+2023-05-19 15:27:05,655 INFO:file name replace with: 0316 Ecolab $222.09.pdf
+2023-05-19 15:27:05,656 INFO:PDF file moved to folder 2023 WYNDHAM GARDEN HOTEL CROSS LANES
+2023-05-19 15:27:07,001 INFO:DAYS INN PRINCETON
+2023-05-19 15:27:07,150 INFO:Pay to the order of: J & M Heating and Air Conditioning
+2023-05-19 15:27:07,280 INFO:Formated Date: 0317
+2023-05-19 15:27:07,405 INFO:Amount: 169.60
+2023-05-19 15:27:07,405 INFO:New Folder Name: 2022 DAYS INN PRINCETON
+2023-05-19 15:27:07,405 INFO:file name replace with: 0317 J & M Heating and Air Conditioning $169.60.pdf
+2023-05-19 15:27:07,406 INFO:PDF file moved to folder 2022 DAYS INN PRINCETON
+2023-05-19 15:27:08,769 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:08,903 INFO:Pay to the order of: Royal Cup
+2023-05-19 15:27:09,041 INFO:Formated Date: 0418
+2023-05-19 15:27:09,164 INFO:Amount: 1,599.51
+2023-05-19 15:27:09,164 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:09,164 INFO:file name replace with: 0418 Royal Cup $1,599.51.pdf
+2023-05-19 15:27:09,165 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:10,559 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:10,682 INFO:Pay to the order of: Royal Cup
+2023-05-19 15:27:10,810 INFO:Formated Date: 0418
+2023-05-19 15:27:10,932 INFO:Amount: 1,599.51
+2023-05-19 15:27:10,932 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:10,932 INFO:file name replace with: 0418 Royal Cup $1,599.51.pdf
+2023-05-19 15:27:10,933 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:12,285 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:12,418 INFO:Pay to the order of: Corporate Identity, Inc.
+2023-05-19 15:27:12,550 INFO:Formated Date: 0418
+2023-05-19 15:27:12,671 INFO:Amount: 167.48
+2023-05-19 15:27:12,671 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:12,671 INFO:file name replace with: 0418 Corporate Identity, Inc. $167.48.pdf
+2023-05-19 15:27:12,671 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:14,008 INFO:WYNDHAM GARDEN HOTEL CROSS LANES
+2023-05-19 15:27:14,133 INFO:Pay to the order of: Cintas
+2023-05-19 15:27:14,269 INFO:Formated Date: 0324
+2023-05-19 15:27:14,400 INFO:Amount: 95.40
+2023-05-19 15:27:14,400 INFO:New Folder Name: 2023 WYNDHAM GARDEN HOTEL CROSS LANES
+2023-05-19 15:27:14,400 INFO:file name replace with: 0324 Cintas $95.40.pdf
+2023-05-19 15:27:14,400 INFO:PDF file moved to folder 2023 WYNDHAM GARDEN HOTEL CROSS LANES
+2023-05-19 15:27:15,715 INFO:QUALITY INN DUNDEE
+2023-05-19 15:27:15,843 INFO:Pay to the order of: dillann Mattingly
+2023-05-19 15:27:15,968 INFO:Formated Date: 0328
+2023-05-19 15:27:16,086 INFO:Amount: 40.85
+2023-05-19 15:27:16,086 INFO:New Folder Name: 2023 QUALITY INN DUNDEE
+2023-05-19 15:27:16,086 INFO:file name replace with: 0328 dillann Mattingly $40.85.pdf
+2023-05-19 15:27:16,087 INFO:PDF file moved to folder 2023 QUALITY INN DUNDEE
+2023-05-19 15:27:17,449 INFO:DAYS INN PRINCETON
+2023-05-19 15:27:17,581 INFO:Pay to the order of: Super Laundry
+2023-05-19 15:27:17,704 INFO:Formated Date: 0471
+2023-05-19 15:27:17,829 INFO:Amount: 11,776.42
+2023-05-19 15:27:17,829 INFO:New Folder Name: 2023 DAYS INN PRINCETON
+2023-05-19 15:27:17,829 INFO:file name replace with: 0471 Super Laundry $11,776.42.pdf
+2023-05-19 15:27:17,829 INFO:PDF file moved to folder 2023 DAYS INN PRINCETON
+2023-05-19 15:27:19,177 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:19,300 INFO:Pay to the order of: HD Supply
+2023-05-19 15:27:19,426 INFO:Formated Date: 0448
+2023-05-19 15:27:19,569 INFO:Amount: 410.09
+2023-05-19 15:27:19,569 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:19,569 INFO:file name replace with: 0448 HD Supply $410.09.pdf
+2023-05-19 15:27:19,570 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:20,907 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:21,035 INFO:Pay to the order of: HD Supply
+2023-05-19 15:27:21,167 INFO:Formated Date: 0418
+2023-05-19 15:27:21,291 INFO:Amount: 410.09
+2023-05-19 15:27:21,291 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:21,292 INFO:file name replace with: 0418 HD Supply $410.09.pdf
+2023-05-19 15:27:21,292 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:22,636 INFO:HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:22,762 INFO:Pay to the order of: Corporate Identity, Inc.
+2023-05-19 15:27:22,885 INFO:Formated Date: 0418
+2023-05-19 15:27:23,006 INFO:Amount: 167.48
+2023-05-19 15:27:23,006 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:23,006 INFO:file name replace with: 0418 Corporate Identity, Inc. $167.48.pdf
+2023-05-19 15:27:23,007 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES SOUTH CHARLESTON
+2023-05-19 15:27:24,449 INFO:HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 15:27:24,449 INFO:HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 15:27:24,573 INFO:Pay to the order of: AT&T - 72037
+2023-05-19 15:27:24,702 INFO:Formated Date: 0418
+2023-05-19 15:27:24,822 INFO:Amount: 292.17
+2023-05-19 15:27:24,822 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 15:27:24,822 INFO:file name replace with: 0418 AT&T - 72037 $292.17.pdf
+2023-05-19 15:27:24,823 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 15:27:26,175 INFO:QUALITY INN BECKLEY
+2023-05-19 15:27:26,295 INFO:Pay to the order of: Cintas
+2023-05-19 15:27:26,425 INFO:Formated Date: 0418
+2023-05-19 15:27:26,546 INFO:Amount: 474.90
+2023-05-19 15:27:26,546 INFO:New Folder Name: 2023 QUALITY INN BECKLEY
+2023-05-19 15:27:26,546 INFO:file name replace with: 0418 Cintas $474.90.pdf
+2023-05-19 15:27:26,546 INFO:PDF file moved to folder 2023 QUALITY INN BECKLEY
+2023-05-19 15:27:27,617 INFO:HOLIDAY INN HOTEL & SUITES BECKLEY
+2023-05-19 15:27:27,748 INFO:Pay to the order of: Cintas Corporation
+2023-05-19 15:27:27,878 INFO:Formated Date: 0504
+2023-05-19 15:27:27,997 INFO:Amount: 887.00
+2023-05-19 15:27:27,997 INFO:New Folder Name: 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
+2023-05-19 15:27:27,997 INFO:file name replace with: 0504 Cintas Corporation $887.00.pdf
+2023-05-19 15:27:27,998 INFO:PDF file moved to folder 2023 HOLIDAY INN HOTEL & SUITES BECKLEY
+2023-05-19 15:27:29,062 INFO:QUALITY INN DUNDEE
+2023-05-19 15:27:29,188 INFO:Pay to the order of: STI Networks
+2023-05-19 15:27:29,315 INFO:Formated Date: 0504
+2023-05-19 15:27:29,434 INFO:Amount: 95.00
+2023-05-19 15:27:29,434 INFO:New Folder Name: 2023 QUALITY INN DUNDEE
+2023-05-19 15:27:29,434 INFO:file name replace with: 0504 STI Networks $95.00.pdf
+2023-05-19 15:27:29,435 INFO:PDF file moved to folder 2023 QUALITY INN DUNDEE
+2023-05-19 15:27:30,487 INFO:COUNTRY INN & SUITES PRINCETON
+2023-05-19 15:27:30,616 INFO:Pay to the order of: MOUNTAINEER GAS
+2023-05-19 15:27:30,745 INFO:Formated Date: 0504
+2023-05-19 15:27:30,866 INFO:Amount: 1,104.27
+2023-05-19 15:27:30,866 INFO:New Folder Name: 2023 COUNTRY INN & SUITES PRINCETON
+2023-05-19 15:27:30,866 INFO:file name replace with: 0504 MOUNTAINEER GAS $1,104.27.pdf
+2023-05-19 15:27:30,867 INFO:PDF file moved to folder 2023 COUNTRY INN & SUITES PRINCETON
+2023-05-19 15:27:31,907 INFO:HOLIDAY INN EXPRESS PRINCETON
+2023-05-19 15:27:32,027 INFO:Pay to the order of: Cintas
+2023-05-19 15:27:32,167 INFO:Formated Date: 0504
+2023-05-19 15:27:32,284 INFO:Amount: 162.60
+2023-05-19 15:27:32,284 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS PRINCETON
+2023-05-19 15:27:32,284 INFO:file name replace with: 0504 Cintas $162.60.pdf
+2023-05-19 15:27:32,284 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS PRINCETON
+2023-05-19 15:27:33,468 INFO:Pay to the order of: Turner Leasing Co., Inc.
+2023-05-19 15:27:33,599 INFO:Formated Date: 0504
+2023-05-19 15:27:33,721 INFO:Amount: 169.60
+2023-05-19 15:27:33,721 INFO:New Folder Name: 2023 COUNTRY INN & SUITES BECKLEY
+2023-05-19 15:27:33,721 INFO:file name replace with: 0504 Turner Leasing Co., Inc. $169.60.pdf
+2023-05-19 15:27:33,722 INFO:PDF file moved to folder 2023 COUNTRY INN & SUITES BECKLEY
+2023-05-19 15:27:34,784 INFO:HOLIDAY INN EXPRESS & SUITES PIKEVILLE
+2023-05-19 15:27:34,908 INFO:Pay to the order of: Royal Cup
+2023-05-19 15:27:35,037 INFO:Formated Date: 0505
+2023-05-19 15:27:35,166 INFO:Amount: 1,064.84
+2023-05-19 15:27:35,166 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
+2023-05-19 15:27:35,166 INFO:file name replace with: 0505 Royal Cup $1,064.84.pdf
+2023-05-19 15:27:35,166 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS & SUITES PIKEVILLE
+2023-05-19 15:27:36,379 INFO:Pay to the order of: US Food Service
+2023-05-19 15:27:36,520 INFO:Formated Date: 0505
+2023-05-19 15:27:36,645 INFO:Amount: 354.38
+2023-05-19 15:27:36,646 INFO:New Folder Name: 2023 QUALITY HOTEL & CONFERENCE CENTER BLUEFIELD
+2023-05-19 15:27:36,646 INFO:file name replace with: 0505 US Food Service $354.38.pdf
+2023-05-19 15:27:36,646 INFO:PDF file moved to folder 2023 QUALITY HOTEL & CONFERENCE CENTER BLUEFIELD
+2023-05-19 15:27:37,853 INFO:Pay to the order of: RR Donnelley
+2023-05-19 15:27:37,985 INFO:Formated Date: 0505
+2023-05-19 15:27:38,123 INFO:Amount: 314.64
+2023-05-19 15:27:38,123 INFO:New Folder Name: 2023 SUPER 8 PRESTONSBURG
+2023-05-19 15:27:38,123 INFO:file name replace with: 0505 RR Donnelley $314.64.pdf
+2023-05-19 15:27:38,124 INFO:PDF file moved to folder 2023 SUPER 8 PRESTONSBURG
+2023-05-19 15:27:38,605 INFO:WINGATE INN BY WYNDHAM HURRICANE
+2023-05-19 15:27:38,726 INFO:Pay to the order of: Pepsi
+2023-05-19 15:27:38,854 INFO:Formated Date: 0512
+2023-05-19 15:27:38,975 INFO:Amount: 431.98
+2023-05-19 15:27:38,975 INFO:New Folder Name: 2023 WINGATE INN BY WYNDHAM HURRICANE
+2023-05-19 15:27:38,975 INFO:file name replace with: 0512 Pepsi $431.98.pdf
+2023-05-19 15:27:38,976 INFO:PDF file moved to folder 2023 WINGATE INN BY WYNDHAM HURRICANE
+2023-05-19 15:27:40,264 INFO:QUALITY INN BECKLEY
+2023-05-19 15:27:40,391 INFO:Pay to the order of: TekSecute
+2023-05-19 15:27:40,520 INFO:Formated Date: 0512
+2023-05-19 15:27:40,642 INFO:Amount: 110.21
+2023-05-19 15:27:40,643 INFO:New Folder Name: 2023 QUALITY INN BECKLEY
+2023-05-19 15:27:40,643 INFO:file name replace with: 0512 TekSecute $110.21.pdf
+2023-05-19 15:27:40,643 INFO:PDF file moved to folder 2023 QUALITY INN BECKLEY
+2023-05-19 15:27:41,102 INFO:HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 15:27:41,102 INFO:HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 15:27:41,237 INFO:Pay to the order of: Link
+2023-05-19 15:27:41,366 INFO:Formated Date: 0512
+2023-05-19 15:27:41,490 INFO:Amount: 840.00
+2023-05-19 15:27:41,490 INFO:New Folder Name: 2023 HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 15:27:41,490 INFO:file name replace with: 0512 Link $840.00.pdf
+2023-05-19 15:27:41,491 INFO:PDF file moved to folder 2023 HOLIDAY INN EXPRESS CHARLESTON
+2023-05-19 15:27:41,494 INFO:Data Extacted Scuessfully

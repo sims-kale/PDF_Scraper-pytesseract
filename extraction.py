@@ -6,7 +6,7 @@ from pdf2image import convert_from_path
 import os
 
 config = configparser.ConfigParser()
-config.read('Folder_Extraction\path.config')
+config.read('Folder_Extraction\cred.config')
 
 FOLDER_PATH = config.get('DEFAULT', 'path')
 LOCATION = config.get('DEFAULT', 'LOCATION')

@@ -16,20 +16,20 @@ with open(file, "rb") as f:
     image = convert_from_path(file, first_page=1, last_page=1)[0]
 
     # select the region
-    region =(1282, 140, 1550, 220)# (left, upper, right, lower)
+    region =(1105, 600, 1430, 860)# (left, upper, right, lower)
 
     # crop the image
     cropped_image = image.crop(region)
 
     # adjust the contrast
     contrast = ImageEnhance.Contrast(cropped_image)
-    cropped_image = contrast.enhance(1.5)
+    cropped_image = contrast.enhance(1.6)
 
     # convert the image to grayscale
     grayscale_image = cropped_image.convert('L')
 
     # apply thresholding to binarize the image
-    threshold_value = 128
+    threshold_value = 110
     binarized_image = grayscale_image.point(lambda x: 0 if x < threshold_value else 255)
 
     # display the pre-processed image
