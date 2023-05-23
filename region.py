@@ -6,7 +6,7 @@ import pytesseract
 from pdf2image import convert_from_path
 
 # file path you want to extract images from
-file ="C:/LLC/05052023_17895.pdf"
+file ="C:/LLC/0316 Ecolab $222.09.pdf"
 # open the file
 with open(file, "rb") as f:
     pdf = PyPDF2.PdfReader(f)
@@ -16,7 +16,7 @@ with open(file, "rb") as f:
     image = convert_from_path(file, first_page=1, last_page=1)[0]
 
     # select the region
-    region =(1105, 600, 1430, 860)# (left, upper, right, lower)
+    region =(40, 60, 800, 220)# (left, upper, right, lower)
 
     # crop the image
     cropped_image = image.crop(region)
